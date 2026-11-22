@@ -1,6 +1,6 @@
 {
- "guncelleme": "2026-11-22T17:53:00+03:00",
- "haftalikOzet": "Ekim enflasyonu yıllık %29,77 ile eylüle yakın kaldı; kasım kira artış sınırı %31,23 oldu. 2027 için yeniden değerleme oranı %27,83 belirlendi; vergi, harç ve cezalar yeni yılda bu oranda artacak. Merkez Bankası ekimde faizi %36'ya indirdi, sonraki karar 10 Aralık'ta. Akaryakıtta kademeli ÖTV artışı sürüyor; memur zammı ise ocak başında netleşecek.",
+ "guncelleme": "2026-11-22T21:41:00+03:00",
+ "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
    "id": "2026-11-03-enflasyon-ekim",
@@ -122,6 +122,84 @@
    "kaynak": {
     "ad": "Timeturk",
     "url": "https://www.timeturk.com/21-kasim-akaryakit-fiyatlari-benzine-de-indirim-geldi-6840-tl-oldu"
+   }
+  },
+  {
+   "id": "2026-10-30-elektrik-limit-2027",
+   "tarih": "2026-10-30",
+   "baslik": "Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh",
+   "ozet": "EPDK, evlerde destekli (ulusal) tarifeden yararlanma sınırını 1 Ocak 2027'den itibaren yıllık 4.000 kWh'den 3.000 kWh'ye indirdi (aylık ortalama 250 kWh, yaklaşık 820 TL fatura). Sınırı aşan evler daha pahalı tarifeye geçer; 2026 tüketimi de hesaba katılır.",
+   "tur": "risk",
+   "etiketler": [
+    "herkes",
+    "kiraci",
+    "ev_sahibi"
+   ],
+   "ne_yapmali": "Faturanızdaki yıllık toplam tüketime bakın; 3.000 kWh'ye yakınsanız tüketimi azaltın ya da tedarikçinizle ikili anlaşma seçeneğini sorun.",
+   "kaynak": {
+    "ad": "Bloomberg HT (EPDK kararı)",
+    "url": "https://www.bloomberght.com/epdk-son-kaynak-tedarik-tarifesinde-limiti-dusurdu-3792931"
+   }
+  },
+  {
+   "id": "2026-11-16-trafik-sigortasi-aralik",
+   "tarih": "2026-11-16",
+   "baslik": "Trafik sigortası azami primi aralıkta %1 artıyor",
+   "ozet": "SEDDK genelgesine göre zorunlu trafik sigortasında azami primler 1 Aralık 2026'dan itibaren %1 artırılacak (taksi, minibüs ve otobüste %3).",
+   "tur": "bilgi",
+   "etiketler": [
+    "arac_sahibi"
+   ],
+   "ne_yapmali": "Poliçeniz aralık başında yenileniyorsa birkaç sigortacıdan teklif alıp karşılaştırın.",
+   "kaynak": {
+    "ad": "Sigorta Medya (SEDDK 2026/31 genelgesi)",
+    "url": "https://sigortamedya.com.tr/trafik-sigortasinda-aralik-ayi-tavan-prim-artisi-belli-oldu"
+   }
+  },
+  {
+   "id": "2026-11-17-asgari-ucret-2027",
+   "tarih": "2026-11-17",
+   "baslik": "2027 asgari ücreti aralıkta belirlenecek",
+   "ozet": "Asgari Ücret Tespit Komisyonu aralıkta toplanacak; yeni ücretin ay sonunda açıklanıp 1 Ocak 2027'de yürürlüğe girmesi bekleniyor. Şu anki net asgari ücret 28.075,50 TL; oran henüz belli değil.",
+   "tur": "bilgi",
+   "etiketler": [
+    "calisan",
+    "ozel_sektor"
+   ],
+   "kaynak": {
+    "ad": "Cumhuriyet",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-tespit-komisyonu-toplantilari-ne-zaman-2027-asgari-ucret-ne-kadar-olacak-2557014"
+   }
+  },
+  {
+   "id": "2026-11-19-bddk-asgari-odeme",
+   "tarih": "2026-11-19",
+   "baslik": "Kredi kartında asgari ödeme oranları değişti",
+   "ozet": "BDDK kararıyla asgari ödeme, limiti 100 bin TL ve altı kartlarda dönem borcunun %20'si, 100-200 bin TL arası kartlarda %30'u, 200 bin TL üstünde %40'ı oldu. Bazı kartlarda asgari tutar düşüyor.",
+   "tur": "bilgi",
+   "etiketler": [
+    "kredi_karti"
+   ],
+   "ne_yapmali": "Kartınızın limitine göre yeni oranı ekstrede kontrol edin. Asgari tutarın düşmesi borcu uzatır ve faizi artırır; mümkünse dönem borcunun tamamını ödeyin.",
+   "kaynak": {
+    "ad": "Gazete Oksijen (BDDK kararı)",
+    "url": "https://gazeteoksijen.com/ekonomi/bddk-kredi-karti-asgari-odeme-oranlarini-yeniden-belirledi-296750"
+   }
+  },
+  {
+   "id": "2026-11-20-borc-yapilandirma-hazirligi",
+   "tarih": "2026-11-20",
+   "baslik": "Kart ve kredi borçlarına yeni yapılandırma hazırlığı",
+   "ozet": "Haberlere göre BDDK, ödenmemiş kredi kartı ve bireysel kredi borçlarını 48-60 aya yayan, önceki uygulamadaki aylık %3,11'den daha düşük faizli bir yapılandırma üzerinde çalışıyor. Karar henüz kesinleşmedi.",
+   "tur": "bilgi",
+   "etiketler": [
+    "kredi_karti",
+    "kredi"
+   ],
+   "ne_yapmali": "Resmî karar açıklanmadan işlem yapmayın; açıklanınca faiz ve vadeyi mevcut borç planınızla karşılaştırın.",
+   "kaynak": {
+    "ad": "Karar",
+    "url": "https://www.karar.com/guncel-haberler/kredi-karti-ve-ihtiyac-kredisi-borclarina-yeni-yapilandirma-geliyor-60-2085242"
    }
   }
  ]
