@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-11-22T05:25:00+03:00",
+ "guncelleme": "2026-11-22T16:59:01+03:00",
  "fiyatlar": {
   "gram_altin": {
-   "alis": 573097,
-   "satis": 573195
+   "alis": 598975,
+   "satis": 608335
   },
   "ceyrek_altin": {
    "alis": 983000,
@@ -14,16 +14,16 @@
    "satis": 1994400
   },
   "tam_altin": {
-   "alis": 3859722,
-   "satis": 3936970
-  },
-  "cumhuriyet_altini": {
    "alis": 3918900,
    "satis": 3976800
   },
+  "cumhuriyet_altini": {
+   "alis": 4021300,
+   "satis": 4085800
+  },
   "gumus_gram": {
-   "alis": 6657,
-   "satis": 6665
+   "alis": 6394,
+   "satis": 7315
   },
   "usd": {
    "alis": 5040,
@@ -44,145 +44,2236 @@
    "url": "https://www.tcmb.gov.tr/kurlar/202611/20112026.xml"
   },
   {
-   "ad": "Bigpara – serbest piyasa altın ve gümüş (22.11.2026 00:01)",
-   "url": "https://bigpara.hurriyet.com.tr/altin/"
+   "ad": "Harem Altın – altın ve gümüş alış/satış (22.11.2026 16:59; geçmiş: gün sonu alış)",
+   "url": "https://www.haremaltin.com/"
   }
  ],
  "gecmis": [
   {
+   "tarih": "2025-11-20",
+   "gram_altin": 572793,
+   "ceyrek_altin": 938300,
+   "gumus_gram": 6874
+  },
+  {
+   "tarih": "2025-11-21",
+   "gram_altin": 570962,
+   "ceyrek_altin": 935300,
+   "gumus_gram": 6801
+  },
+  {
+   "tarih": "2025-11-22",
+   "gram_altin": 572145,
+   "ceyrek_altin": 937300,
+   "gumus_gram": 6814
+  },
+  {
+   "tarih": "2025-11-23",
+   "gram_altin": 572145,
+   "ceyrek_altin": 937300,
+   "gumus_gram": 6814
+  },
+  {
+   "tarih": "2025-11-24",
+   "gram_altin": 577909,
+   "ceyrek_altin": 946700,
+   "gumus_gram": 6995
+  },
+  {
+   "tarih": "2025-11-25",
+   "gram_altin": 573241,
+   "ceyrek_altin": 939100,
+   "gumus_gram": 7006
+  },
+  {
+   "tarih": "2025-11-26",
+   "gram_altin": 575269,
+   "ceyrek_altin": 942400,
+   "gumus_gram": 7257
+  },
+  {
+   "tarih": "2025-11-28",
+   "gram_altin": 579931,
+   "ceyrek_altin": 950000,
+   "gumus_gram": 7676
+  },
+  {
+   "tarih": "2025-11-29",
+   "gram_altin": 578634,
+   "ceyrek_altin": 947900,
+   "gumus_gram": 7669
+  },
+  {
+   "tarih": "2025-11-30",
+   "gram_altin": 578634,
+   "ceyrek_altin": 947900,
+   "gumus_gram": 7669
+  },
+  {
+   "tarih": "2025-12-01",
+   "gram_altin": 577797,
+   "ceyrek_altin": 946500,
+   "gumus_gram": 7783
+  },
+  {
+   "tarih": "2025-12-02",
+   "gram_altin": 577626,
+   "ceyrek_altin": 946300,
+   "gumus_gram": 7911
+  },
+  {
+   "tarih": "2025-12-03",
+   "gram_altin": 575779,
+   "ceyrek_altin": 943200,
+   "gumus_gram": 7893
+  },
+  {
+   "tarih": "2025-12-04",
+   "gram_altin": 578160,
+   "ceyrek_altin": 947100,
+   "gumus_gram": 7704
+  },
+  {
+   "tarih": "2025-12-05",
+   "gram_altin": 574488,
+   "ceyrek_altin": 941100,
+   "gumus_gram": 7869
+  },
+  {
+   "tarih": "2025-12-06",
+   "gram_altin": 576385,
+   "ceyrek_altin": 944200,
+   "gumus_gram": 7863
+  },
+  {
+   "tarih": "2025-12-07",
+   "gram_altin": 576385,
+   "ceyrek_altin": 944200,
+   "gumus_gram": 7863
+  },
+  {
+   "tarih": "2025-12-08",
+   "gram_altin": 575707,
+   "ceyrek_altin": 943100,
+   "gumus_gram": 7862
+  },
+  {
+   "tarih": "2025-12-09",
+   "gram_altin": 577450,
+   "ceyrek_altin": 946000,
+   "gumus_gram": 8232
+  },
+  {
+   "tarih": "2025-12-10",
+   "gram_altin": 580940,
+   "ceyrek_altin": 948800,
+   "gumus_gram": 8373
+  },
+  {
+   "tarih": "2025-12-11",
+   "gram_altin": 582938,
+   "ceyrek_altin": 952000,
+   "gumus_gram": 8603
+  },
+  {
+   "tarih": "2025-12-12",
+   "gram_altin": 587105,
+   "ceyrek_altin": 958800,
+   "gumus_gram": 8390
+  },
+  {
+   "tarih": "2025-12-13",
+   "gram_altin": 589339,
+   "ceyrek_altin": 962500,
+   "gumus_gram": 8408
+  },
+  {
+   "tarih": "2025-12-14",
+   "gram_altin": 589339,
+   "ceyrek_altin": 962500,
+   "gumus_gram": 8408
+  },
+  {
+   "tarih": "2025-12-15",
+   "gram_altin": 588910,
+   "ceyrek_altin": 948200,
+   "gumus_gram": 8702
+  },
+  {
+   "tarih": "2025-12-16",
+   "gram_altin": 589816,
+   "ceyrek_altin": 950200,
+   "gumus_gram": 8658
+  },
+  {
+   "tarih": "2025-12-17",
+   "gram_altin": 596905,
+   "ceyrek_altin": 961600,
+   "gumus_gram": 9047
+  },
+  {
+   "tarih": "2025-12-18",
+   "gram_altin": 595655,
+   "ceyrek_altin": 959600,
+   "gumus_gram": 8900
+  },
+  {
+   "tarih": "2025-12-19",
+   "gram_altin": 597987,
+   "ceyrek_altin": 963400,
+   "gumus_gram": 9158
+  },
+  {
+   "tarih": "2025-12-20",
+   "gram_altin": 598893,
+   "ceyrek_altin": 964900,
+   "gumus_gram": 9157
+  },
+  {
+   "tarih": "2025-12-21",
+   "gram_altin": 598893,
+   "ceyrek_altin": 964900,
+   "gumus_gram": 9157
+  },
+  {
+   "tarih": "2025-12-22",
+   "gram_altin": 608472,
+   "ceyrek_altin": 980300,
+   "gumus_gram": 9422
+  },
+  {
+   "tarih": "2025-12-23",
+   "gram_altin": 623434,
+   "ceyrek_altin": 1004400,
+   "gumus_gram": 9925
+  },
+  {
+   "tarih": "2025-12-24",
+   "gram_altin": 621685,
+   "ceyrek_altin": 1001600,
+   "gumus_gram": 9986
+  },
+  {
+   "tarih": "2025-12-25",
+   "gram_altin": 620470,
+   "ceyrek_altin": 999600,
+   "gumus_gram": 10016
+  },
+  {
+   "tarih": "2025-12-26",
+   "gram_altin": 627030,
+   "ceyrek_altin": 1010200,
+   "gumus_gram": 10929
+  },
+  {
+   "tarih": "2025-12-27",
+   "gram_altin": 627769,
+   "ceyrek_altin": 1011400,
+   "gumus_gram": 11036
+  },
+  {
+   "tarih": "2025-12-28",
+   "gram_altin": 627769,
+   "ceyrek_altin": 1011400,
+   "gumus_gram": 11036
+  },
+  {
+   "tarih": "2025-12-29",
+   "gram_altin": 603577,
+   "ceyrek_altin": 972400,
+   "gumus_gram": 10364
+  },
+  {
+   "tarih": "2025-12-30",
+   "gram_altin": 611689,
+   "ceyrek_altin": 985500,
+   "gumus_gram": 10826
+  },
+  {
+   "tarih": "2026-01-01",
+   "gram_altin": 611250,
+   "ceyrek_altin": 984800,
+   "gumus_gram": 10214
+  },
+  {
+   "tarih": "2026-01-02",
+   "gram_altin": 619420,
+   "ceyrek_altin": 1014700,
+   "gumus_gram": 10464
+  },
+  {
+   "tarih": "2026-01-03",
+   "gram_altin": 625861,
+   "ceyrek_altin": 1025300,
+   "gumus_gram": 10522
+  },
+  {
+   "tarih": "2026-01-04",
+   "gram_altin": 625861,
+   "ceyrek_altin": 1025300,
+   "gumus_gram": 10522
+  },
+  {
+   "tarih": "2026-01-05",
+   "gram_altin": 630230,
+   "ceyrek_altin": 1032400,
+   "gumus_gram": 10968
+  },
+  {
+   "tarih": "2026-01-06",
+   "gram_altin": 633204,
+   "ceyrek_altin": 1037300,
+   "gumus_gram": 11681
+  },
+  {
+   "tarih": "2026-01-07",
+   "gram_altin": 631054,
+   "ceyrek_altin": 1033800,
+   "gumus_gram": 11268
+  },
+  {
+   "tarih": "2026-01-08",
+   "gram_altin": 631452,
+   "ceyrek_altin": 1034400,
+   "gumus_gram": 11066
+  },
+  {
+   "tarih": "2026-01-09",
+   "gram_altin": 631856,
+   "ceyrek_altin": 1035100,
+   "gumus_gram": 11322
+  },
+  {
+   "tarih": "2026-01-10",
+   "gram_altin": 631664,
+   "ceyrek_altin": 1034800,
+   "gumus_gram": 11352
+  },
+  {
+   "tarih": "2026-01-11",
+   "gram_altin": 629598,
+   "ceyrek_altin": 1031400,
+   "gumus_gram": 11314
+  },
+  {
+   "tarih": "2026-01-12",
+   "gram_altin": 636307,
+   "ceyrek_altin": 1042400,
+   "gumus_gram": 12048
+  },
+  {
+   "tarih": "2026-01-13",
+   "gram_altin": 636481,
+   "ceyrek_altin": 1042700,
+   "gumus_gram": 12262
+  },
+  {
+   "tarih": "2026-01-14",
+   "gram_altin": 644155,
+   "ceyrek_altin": 1055200,
+   "gumus_gram": 13029
+  },
+  {
+   "tarih": "2026-01-15",
+   "gram_altin": 643299,
+   "ceyrek_altin": 1053800,
+   "gumus_gram": 12847
+  },
+  {
+   "tarih": "2026-01-16",
+   "gram_altin": 644629,
+   "ceyrek_altin": 1056000,
+   "gumus_gram": 12537
+  },
+  {
+   "tarih": "2026-01-17",
+   "gram_altin": 647253,
+   "ceyrek_altin": 1060300,
+   "gumus_gram": 12631
+  },
+  {
+   "tarih": "2026-01-18",
+   "gram_altin": 647253,
+   "ceyrek_altin": 1060300,
+   "gumus_gram": 12631
+  },
+  {
+   "tarih": "2026-01-19",
+   "gram_altin": 653737,
+   "ceyrek_altin": 1070900,
+   "gumus_gram": 13229
+  },
+  {
+   "tarih": "2026-01-20",
+   "gram_altin": 666011,
+   "ceyrek_altin": 1091100,
+   "gumus_gram": 13207
+  },
+  {
+   "tarih": "2026-01-21",
+   "gram_altin": 680831,
+   "ceyrek_altin": 1115300,
+   "gumus_gram": 12989
+  },
+  {
+   "tarih": "2026-01-22",
+   "gram_altin": 690583,
+   "ceyrek_altin": 1131300,
+   "gumus_gram": 13470
+  },
+  {
+   "tarih": "2026-01-24",
+   "gram_altin": 703601,
+   "ceyrek_altin": 1152600,
+   "gumus_gram": 14482
+  },
+  {
+   "tarih": "2026-01-25",
+   "gram_altin": 703601,
+   "ceyrek_altin": 1152600,
+   "gumus_gram": 14482
+  },
+  {
+   "tarih": "2026-01-26",
+   "gram_altin": 718945,
+   "ceyrek_altin": 1177800,
+   "gumus_gram": 15218
+  },
+  {
+   "tarih": "2026-01-27",
+   "gram_altin": 741432,
+   "ceyrek_altin": 1214600,
+   "gumus_gram": 15776
+  },
+  {
+   "tarih": "2026-01-28",
+   "gram_altin": 769997,
+   "ceyrek_altin": 1261400,
+   "gumus_gram": 16544
+  },
+  {
+   "tarih": "2026-01-29",
+   "gram_altin": 778686,
+   "ceyrek_altin": 1275600,
+   "gumus_gram": 16518
+  },
+  {
+   "tarih": "2026-01-30",
+   "gram_altin": 704894,
+   "ceyrek_altin": 1154800,
+   "gumus_gram": 11675
+  },
+  {
+   "tarih": "2026-01-31",
+   "gram_altin": 722098,
+   "ceyrek_altin": 1182900,
+   "gumus_gram": 12447
+  },
+  {
+   "tarih": "2026-02-01",
+   "gram_altin": 722098,
+   "ceyrek_altin": 1182900,
+   "gumus_gram": 12447
+  },
+  {
+   "tarih": "2026-02-02",
+   "gram_altin": 691512,
+   "ceyrek_altin": 1132800,
+   "gumus_gram": 11703
+  },
+  {
+   "tarih": "2026-02-03",
+   "gram_altin": 728480,
+   "ceyrek_altin": 1193400,
+   "gumus_gram": 12450
+  },
+  {
+   "tarih": "2026-02-04",
+   "gram_altin": 731211,
+   "ceyrek_altin": 1197900,
+   "gumus_gram": 12844
+  },
+  {
+   "tarih": "2026-02-05",
+   "gram_altin": 716898,
+   "ceyrek_altin": 1174400,
+   "gumus_gram": 10835
+  },
+  {
+   "tarih": "2026-02-06",
+   "gram_altin": 725108,
+   "ceyrek_altin": 1187900,
+   "gumus_gram": 11404
+  },
+  {
+   "tarih": "2026-02-07",
+   "gram_altin": 731281,
+   "ceyrek_altin": 1198000,
+   "gumus_gram": 11497
+  },
+  {
+   "tarih": "2026-02-08",
+   "gram_altin": 731281,
+   "ceyrek_altin": 1198000,
+   "gumus_gram": 11497
+  },
+  {
+   "tarih": "2026-02-09",
+   "gram_altin": 734654,
+   "ceyrek_altin": 1203500,
+   "gumus_gram": 12336
+  },
+  {
+   "tarih": "2026-02-10",
+   "gram_altin": 723666,
+   "ceyrek_altin": 1185500,
+   "gumus_gram": 11786
+  },
+  {
+   "tarih": "2026-02-11",
+   "gram_altin": 731611,
+   "ceyrek_altin": 1198500,
+   "gumus_gram": 12137
+  },
+  {
+   "tarih": "2026-02-13",
+   "gram_altin": 728208,
+   "ceyrek_altin": 1192900,
+   "gumus_gram": 11062
+  },
+  {
+   "tarih": "2026-02-14",
+   "gram_altin": 729944,
+   "ceyrek_altin": 1195800,
+   "gumus_gram": 11143
+  },
+  {
+   "tarih": "2026-02-15",
+   "gram_altin": 729944,
+   "ceyrek_altin": 1195800,
+   "gumus_gram": 11143
+  },
+  {
+   "tarih": "2026-02-16",
+   "gram_altin": 723852,
+   "ceyrek_altin": 1185800,
+   "gumus_gram": 11006
+  },
+  {
+   "tarih": "2026-02-17",
+   "gram_altin": 718988,
+   "ceyrek_altin": 1177800,
+   "gumus_gram": 10575
+  },
+  {
+   "tarih": "2026-02-18",
+   "gram_altin": 724796,
+   "ceyrek_altin": 1187400,
+   "gumus_gram": 10999
+  },
+  {
+   "tarih": "2026-02-19",
+   "gram_altin": 726212,
+   "ceyrek_altin": 1189700,
+   "gumus_gram": 11094
+  },
+  {
+   "tarih": "2026-02-20",
+   "gram_altin": 737199,
+   "ceyrek_altin": 1207700,
+   "gumus_gram": 11930
+  },
+  {
+   "tarih": "2026-02-21",
+   "gram_altin": 735610,
+   "ceyrek_altin": 1205100,
+   "gumus_gram": 11953
+  },
+  {
+   "tarih": "2026-02-22",
+   "gram_altin": 735610,
+   "ceyrek_altin": 1205100,
+   "gumus_gram": 11953
+  },
+  {
+   "tarih": "2026-02-23",
+   "gram_altin": 748031,
+   "ceyrek_altin": 1225400,
+   "gumus_gram": 12577
+  },
+  {
+   "tarih": "2026-02-24",
+   "gram_altin": 738170,
+   "ceyrek_altin": 1209300,
+   "gumus_gram": 12350
+  },
+  {
+   "tarih": "2026-02-25",
+   "gram_altin": 735036,
+   "ceyrek_altin": 1204100,
+   "gumus_gram": 12620
+  },
+  {
+   "tarih": "2026-02-26",
+   "gram_altin": 737595,
+   "ceyrek_altin": 1208300,
+   "gumus_gram": 12556
+  },
+  {
+   "tarih": "2026-02-27",
+   "gram_altin": 744314,
+   "ceyrek_altin": 1219300,
+   "gumus_gram": 13173
+  },
+  {
+   "tarih": "2026-02-28",
+   "gram_altin": 774232,
+   "ceyrek_altin": 1268300,
+   "gumus_gram": 13198
+  },
+  {
+   "tarih": "2026-03-02",
+   "gram_altin": 750184,
+   "ceyrek_altin": 1228900,
+   "gumus_gram": 12633
+  },
+  {
+   "tarih": "2026-03-03",
+   "gram_altin": 727702,
+   "ceyrek_altin": 1192100,
+   "gumus_gram": 11630
+  },
+  {
+   "tarih": "2026-03-04",
+   "gram_altin": 736121,
+   "ceyrek_altin": 1205900,
+   "gumus_gram": 11759
+  },
+  {
+   "tarih": "2026-03-05",
+   "gram_altin": 728714,
+   "ceyrek_altin": 1193800,
+   "gumus_gram": 11587
+  },
+  {
+   "tarih": "2026-03-09",
+   "gram_altin": 733785,
+   "ceyrek_altin": 1202100,
+   "gumus_gram": 12281
+  },
+  {
+   "tarih": "2026-03-10",
+   "gram_altin": 734307,
+   "ceyrek_altin": 1202900,
+   "gumus_gram": 12290
+  },
+  {
+   "tarih": "2026-03-11",
+   "gram_altin": 734401,
+   "ceyrek_altin": 1203100,
+   "gumus_gram": 11914
+  },
+  {
+   "tarih": "2026-03-12",
+   "gram_altin": 718290,
+   "ceyrek_altin": 1177400,
+   "gumus_gram": 11625
+  },
+  {
+   "tarih": "2026-03-13",
+   "gram_altin": 713067,
+   "ceyrek_altin": 1168100,
+   "gumus_gram": 11203
+  },
+  {
+   "tarih": "2026-03-14",
+   "gram_altin": 717530,
+   "ceyrek_altin": 1175500,
+   "gumus_gram": 11215
+  },
+  {
+   "tarih": "2026-03-15",
+   "gram_altin": 717530,
+   "ceyrek_altin": 1175500,
+   "gumus_gram": 11215
+  },
+  {
+   "tarih": "2026-03-16",
+   "gram_altin": 713971,
+   "ceyrek_altin": 1169600,
+   "gumus_gram": 11261
+  },
+  {
+   "tarih": "2026-03-17",
+   "gram_altin": 716319,
+   "ceyrek_altin": 1173500,
+   "gumus_gram": 11068
+  },
+  {
+   "tarih": "2026-03-18",
+   "gram_altin": 701225,
+   "ceyrek_altin": 1148700,
+   "gumus_gram": 10544
+  },
+  {
+   "tarih": "2026-03-19",
+   "gram_altin": 685256,
+   "ceyrek_altin": 1122600,
+   "gumus_gram": 10214
+  },
+  {
+   "tarih": "2026-03-20",
+   "gram_altin": 662944,
+   "ceyrek_altin": 1086000,
+   "gumus_gram": 9505
+  },
+  {
+   "tarih": "2026-03-21",
+   "gram_altin": 662944,
+   "ceyrek_altin": 1086000,
+   "gumus_gram": 9505
+  },
+  {
+   "tarih": "2026-03-22",
+   "gram_altin": 662944,
+   "ceyrek_altin": 1086000,
+   "gumus_gram": 9505
+  },
+  {
+   "tarih": "2026-03-23",
+   "gram_altin": 658843,
+   "ceyrek_altin": 1082600,
+   "gumus_gram": 9728
+  },
+  {
+   "tarih": "2026-03-24",
+   "gram_altin": 672623,
+   "ceyrek_altin": 1105300,
+   "gumus_gram": 10050
+  },
+  {
+   "tarih": "2026-03-25",
+   "gram_altin": 672102,
+   "ceyrek_altin": 1098900,
+   "gumus_gram": 10008
+  },
+  {
+   "tarih": "2026-03-26",
+   "gram_altin": 646818,
+   "ceyrek_altin": 1072600,
+   "gumus_gram": 9502
+  },
+  {
+   "tarih": "2026-03-27",
+   "gram_altin": 658027,
+   "ceyrek_altin": 1124300,
+   "gumus_gram": 9774
+  },
+  {
+   "tarih": "2026-03-28",
+   "gram_altin": 661110,
+   "ceyrek_altin": 1096300,
+   "gumus_gram": 9768
+  },
+  {
+   "tarih": "2026-03-29",
+   "gram_altin": 661110,
+   "ceyrek_altin": 1096300,
+   "gumus_gram": 9768
+  },
+  {
+   "tarih": "2026-03-30",
+   "gram_altin": 652268,
+   "ceyrek_altin": 1071800,
+   "gumus_gram": 9761
+  },
+  {
+   "tarih": "2026-03-31",
+   "gram_altin": 670387,
+   "ceyrek_altin": 1108300,
+   "gumus_gram": 10470
+  },
+  {
+   "tarih": "2026-04-01",
+   "gram_altin": 684484,
+   "ceyrek_altin": 1131600,
+   "gumus_gram": 10488
+  },
+  {
+   "tarih": "2026-04-02",
+   "gram_altin": 672287,
+   "ceyrek_altin": 1114800,
+   "gumus_gram": 10200
+  },
+  {
+   "tarih": "2026-04-03",
+   "gram_altin": 676806,
+   "ceyrek_altin": 1122300,
+   "gumus_gram": 10216
+  },
+  {
+   "tarih": "2026-04-04",
+   "gram_altin": 676379,
+   "ceyrek_altin": 1121600,
+   "gumus_gram": 10217
+  },
+  {
+   "tarih": "2026-04-05",
+   "gram_altin": 676379,
+   "ceyrek_altin": 1121600,
+   "gumus_gram": 10217
+  },
+  {
+   "tarih": "2026-04-06",
+   "gram_altin": 668163,
+   "ceyrek_altin": 1108000,
+   "gumus_gram": 10194
+  },
+  {
+   "tarih": "2026-04-07",
+   "gram_altin": 676230,
+   "ceyrek_altin": 1121400,
+   "gumus_gram": 10227
+  },
+  {
+   "tarih": "2026-04-08",
+   "gram_altin": 675589,
+   "ceyrek_altin": 1113500,
+   "gumus_gram": 10384
+  },
+  {
+   "tarih": "2026-04-09",
+   "gram_altin": 679484,
+   "ceyrek_altin": 1126800,
+   "gumus_gram": 10570
+  },
+  {
+   "tarih": "2026-04-10",
+   "gram_altin": 677426,
+   "ceyrek_altin": 1116600,
+   "gumus_gram": 10640
+  },
+  {
+   "tarih": "2026-04-11",
+   "gram_altin": 680598,
+   "ceyrek_altin": 1121800,
+   "gumus_gram": 10649
+  },
+  {
+   "tarih": "2026-04-12",
+   "gram_altin": 680598,
+   "ceyrek_altin": 1121800,
+   "gumus_gram": 10649
+  },
+  {
+   "tarih": "2026-04-13",
+   "gram_altin": 676633,
+   "ceyrek_altin": 1111900,
+   "gumus_gram": 10621
+  },
+  {
+   "tarih": "2026-04-14",
+   "gram_altin": 689089,
+   "ceyrek_altin": 1128900,
+   "gumus_gram": 11202
+  },
+  {
+   "tarih": "2026-04-15",
+   "gram_altin": 682833,
+   "ceyrek_altin": 1118600,
+   "gumus_gram": 11042
+  },
+  {
+   "tarih": "2026-04-16",
+   "gram_altin": 685036,
+   "ceyrek_altin": 1122200,
+   "gumus_gram": 10910
+  },
+  {
+   "tarih": "2026-04-17",
+   "gram_altin": 691276,
+   "ceyrek_altin": 1132400,
+   "gumus_gram": 11287
+  },
+  {
+   "tarih": "2026-04-18",
+   "gram_altin": 690057,
+   "ceyrek_altin": 1130400,
+   "gumus_gram": 11214
+  },
+  {
+   "tarih": "2026-04-19",
+   "gram_altin": 690057,
+   "ceyrek_altin": 1130400,
+   "gumus_gram": 11214
+  },
+  {
+   "tarih": "2026-04-20",
+   "gram_altin": 689370,
+   "ceyrek_altin": 1130700,
+   "gumus_gram": 11055
+  },
+  {
+   "tarih": "2026-04-21",
+   "gram_altin": 676542,
+   "ceyrek_altin": 1109700,
+   "gumus_gram": 10628
+  },
+  {
+   "tarih": "2026-04-22",
+   "gram_altin": 680645,
+   "ceyrek_altin": 1117100,
+   "gumus_gram": 10776
+  },
+  {
+   "tarih": "2026-04-23",
+   "gram_altin": 672746,
+   "ceyrek_altin": 1104800,
+   "gumus_gram": 10584
+  },
+  {
+   "tarih": "2026-04-24",
+   "gram_altin": 674994,
+   "ceyrek_altin": 1108500,
+   "gumus_gram": 10614
+  },
+  {
+   "tarih": "2026-04-25",
+   "gram_altin": 674768,
+   "ceyrek_altin": 1108100,
+   "gumus_gram": 10594
+  },
+  {
+   "tarih": "2026-04-26",
+   "gram_altin": 674768,
+   "ceyrek_altin": 1108100,
+   "gumus_gram": 10594
+  },
+  {
+   "tarih": "2026-04-27",
+   "gram_altin": 669130,
+   "ceyrek_altin": 1098900,
+   "gumus_gram": 10504
+  },
+  {
+   "tarih": "2026-04-28",
+   "gram_altin": 661372,
+   "ceyrek_altin": 1085400,
+   "gumus_gram": 10199
+  },
+  {
+   "tarih": "2026-04-29",
+   "gram_altin": 654260,
+   "ceyrek_altin": 1073100,
+   "gumus_gram": 10012
+  },
+  {
+   "tarih": "2026-04-30",
+   "gram_altin": 664639,
+   "ceyrek_altin": 1090100,
+   "gumus_gram": 10360
+  },
+  {
+   "tarih": "2026-05-01",
+   "gram_altin": 662366,
+   "ceyrek_altin": 1086400,
+   "gumus_gram": 10569
+  },
+  {
+   "tarih": "2026-05-02",
+   "gram_altin": 662699,
+   "ceyrek_altin": 1087000,
+   "gumus_gram": 10560
+  },
+  {
+   "tarih": "2026-05-03",
+   "gram_altin": 662699,
+   "ceyrek_altin": 1087000,
+   "gumus_gram": 10560
+  },
+  {
+   "tarih": "2026-05-04",
+   "gram_altin": 652158,
+   "ceyrek_altin": 1069700,
+   "gumus_gram": 10231
+  },
+  {
+   "tarih": "2026-05-05",
+   "gram_altin": 657711,
+   "ceyrek_altin": 1078800,
+   "gumus_gram": 10280
+  },
+  {
+   "tarih": "2026-05-06",
+   "gram_altin": 676248,
+   "ceyrek_altin": 1109200,
+   "gumus_gram": 10935
+  },
+  {
+   "tarih": "2026-05-07",
+   "gram_altin": 679387,
+   "ceyrek_altin": 1113600,
+   "gumus_gram": 11187
+  },
+  {
+   "tarih": "2026-05-08",
+   "gram_altin": 681410,
+   "ceyrek_altin": 1117000,
+   "gumus_gram": 11373
+  },
+  {
+   "tarih": "2026-05-09",
+   "gram_altin": 679858,
+   "ceyrek_altin": 1114400,
+   "gumus_gram": 11350
+  },
+  {
+   "tarih": "2026-05-10",
+   "gram_altin": 679858,
+   "ceyrek_altin": 1114400,
+   "gumus_gram": 11350
+  },
+  {
+   "tarih": "2026-05-11",
+   "gram_altin": 683453,
+   "ceyrek_altin": 1120300,
+   "gumus_gram": 12033
+  },
+  {
+   "tarih": "2026-05-12",
+   "gram_altin": 680393,
+   "ceyrek_altin": 1114600,
+   "gumus_gram": 12106
+  },
+  {
+   "tarih": "2026-05-13",
+   "gram_altin": 677321,
+   "ceyrek_altin": 1109600,
+   "gumus_gram": 12165
+  },
+  {
+   "tarih": "2026-05-14",
+   "gram_altin": 670824,
+   "ceyrek_altin": 1098900,
+   "gumus_gram": 11422
+  },
+  {
+   "tarih": "2026-05-15",
+   "gram_altin": 660381,
+   "ceyrek_altin": 1081800,
+   "gumus_gram": 10354
+  },
+  {
+   "tarih": "2026-05-16",
+   "gram_altin": 662667,
+   "ceyrek_altin": 1085600,
+   "gumus_gram": 10360
+  },
+  {
+   "tarih": "2026-05-17",
+   "gram_altin": 662667,
+   "ceyrek_altin": 1085600,
+   "gumus_gram": 10360
+  },
+  {
+   "tarih": "2026-05-18",
+   "gram_altin": 664278,
+   "ceyrek_altin": 1088200,
+   "gumus_gram": 10754
+  },
+  {
+   "tarih": "2026-05-19",
+   "gram_altin": 653400,
+   "ceyrek_altin": 1070400,
+   "gumus_gram": 10187
+  },
+  {
+   "tarih": "2026-05-20",
+   "gram_altin": 659600,
+   "ceyrek_altin": 1080600,
+   "gumus_gram": 10499
+  },
+  {
+   "tarih": "2026-05-21",
+   "gram_altin": 659777,
+   "ceyrek_altin": 1080800,
+   "gumus_gram": 10612
+  },
+  {
+   "tarih": "2026-05-22",
+   "gram_altin": 658348,
+   "ceyrek_altin": 1078500,
+   "gumus_gram": 10624
+  },
+  {
+   "tarih": "2026-05-23",
+   "gram_altin": 659975,
+   "ceyrek_altin": 1081200,
+   "gumus_gram": 10636
+  },
+  {
+   "tarih": "2026-05-24",
+   "gram_altin": 659975,
+   "ceyrek_altin": 1081200,
+   "gumus_gram": 10636
+  },
+  {
+   "tarih": "2026-05-25",
+   "gram_altin": 669060,
+   "ceyrek_altin": 1096000,
+   "gumus_gram": 11006
+  },
+  {
+   "tarih": "2026-05-26",
+   "gram_altin": 662627,
+   "ceyrek_altin": 1085500,
+   "gumus_gram": 10871
+  },
+  {
+   "tarih": "2026-05-27",
+   "gram_altin": 654571,
+   "ceyrek_altin": 1072300,
+   "gumus_gram": 10541
+  },
+  {
+   "tarih": "2026-05-28",
+   "gram_altin": 660468,
+   "ceyrek_altin": 1082000,
+   "gumus_gram": 10679
+  },
+  {
+   "tarih": "2026-05-29",
+   "gram_altin": 664352,
+   "ceyrek_altin": 1088300,
+   "gumus_gram": 10588
+  },
+  {
+   "tarih": "2026-05-30",
+   "gram_altin": 664352,
+   "ceyrek_altin": 1088300,
+   "gumus_gram": 10588
+  },
+  {
+   "tarih": "2026-05-31",
+   "gram_altin": 664352,
+   "ceyrek_altin": 1088300,
+   "gumus_gram": 10588
+  },
+  {
+   "tarih": "2026-06-01",
+   "gram_altin": 657494,
+   "ceyrek_altin": 1077100,
+   "gumus_gram": 10569
+  },
+  {
+   "tarih": "2026-06-02",
+   "gram_altin": 658976,
+   "ceyrek_altin": 1079500,
+   "gumus_gram": 10637
+  },
+  {
+   "tarih": "2026-06-03",
+   "gram_altin": 654345,
+   "ceyrek_altin": 1071900,
+   "gumus_gram": 10293
+  },
+  {
+   "tarih": "2026-06-04",
+   "gram_altin": 658700,
+   "ceyrek_altin": 1079100,
+   "gumus_gram": 10470
+  },
+  {
+   "tarih": "2026-06-05",
+   "gram_altin": 637940,
+   "ceyrek_altin": 1045100,
+   "gumus_gram": 9557
+  },
+  {
+   "tarih": "2026-06-06",
+   "gram_altin": 643407,
+   "ceyrek_altin": 1054000,
+   "gumus_gram": 9639
+  },
+  {
+   "tarih": "2026-06-07",
+   "gram_altin": 643407,
+   "ceyrek_altin": 1054000,
+   "gumus_gram": 9639
+  },
+  {
+   "tarih": "2026-06-08",
+   "gram_altin": 642493,
+   "ceyrek_altin": 1052500,
+   "gumus_gram": 9878
+  },
+  {
+   "tarih": "2026-06-09",
+   "gram_altin": 632422,
+   "ceyrek_altin": 1036000,
+   "gumus_gram": 9462
+  },
+  {
+   "tarih": "2026-06-10",
+   "gram_altin": 605574,
+   "ceyrek_altin": 992000,
+   "gumus_gram": 9243
+  },
+  {
+   "tarih": "2026-06-11",
+   "gram_altin": 624349,
+   "ceyrek_altin": 1022800,
+   "gumus_gram": 9892
+  },
+  {
+   "tarih": "2026-06-12",
+   "gram_altin": 628435,
+   "ceyrek_altin": 1029500,
+   "gumus_gram": 9947
+  },
+  {
+   "tarih": "2026-06-13",
+   "gram_altin": 632000,
+   "ceyrek_altin": 1035300,
+   "gumus_gram": 9963
+  },
+  {
+   "tarih": "2026-06-14",
+   "gram_altin": 632000,
+   "ceyrek_altin": 1035300,
+   "gumus_gram": 9963
+  },
+  {
+   "tarih": "2026-06-15",
+   "gram_altin": 646765,
+   "ceyrek_altin": 1059500,
+   "gumus_gram": 10252
+  },
+  {
+   "tarih": "2026-06-16",
+   "gram_altin": 651137,
+   "ceyrek_altin": 1068000,
+   "gumus_gram": 10268
+  },
+  {
+   "tarih": "2026-06-17",
+   "gram_altin": 638085,
+   "ceyrek_altin": 1047200,
+   "gumus_gram": 9954
+  },
+  {
+   "tarih": "2026-06-18",
+   "gram_altin": 629446,
+   "ceyrek_altin": 1033100,
+   "gumus_gram": 9618
+  },
+  {
+   "tarih": "2026-06-19",
+   "gram_altin": 623940,
+   "ceyrek_altin": 1024000,
+   "gumus_gram": 9501
+  },
+  {
+   "tarih": "2026-06-20",
+   "gram_altin": 626213,
+   "ceyrek_altin": 1027700,
+   "gumus_gram": 9515
+  },
+  {
+   "tarih": "2026-06-21",
+   "gram_altin": 626213,
+   "ceyrek_altin": 1027700,
+   "gumus_gram": 9515
+  },
+  {
+   "tarih": "2026-06-22",
+   "gram_altin": 626509,
+   "ceyrek_altin": 1028200,
+   "gumus_gram": 9553
+  },
+  {
+   "tarih": "2026-06-23",
+   "gram_altin": 615273,
+   "ceyrek_altin": 1009800,
+   "gumus_gram": 9018
+  },
+  {
+   "tarih": "2026-06-24",
+   "gram_altin": 601242,
+   "ceyrek_altin": 986800,
+   "gumus_gram": 8426
+  },
+  {
+   "tarih": "2026-06-25",
+   "gram_altin": 602620,
+   "ceyrek_altin": 989000,
+   "gumus_gram": 8549
+  },
+  {
+   "tarih": "2026-06-26",
+   "gram_altin": 610163,
+   "ceyrek_altin": 1001400,
+   "gumus_gram": 8696
+  },
+  {
+   "tarih": "2026-06-27",
+   "gram_altin": 613308,
+   "ceyrek_altin": 1006600,
+   "gumus_gram": 8712
+  },
+  {
+   "tarih": "2026-06-28",
+   "gram_altin": 613308,
+   "ceyrek_altin": 1006600,
+   "gumus_gram": 8712
+  },
+  {
+   "tarih": "2026-06-29",
+   "gram_altin": 601595,
+   "ceyrek_altin": 987300,
+   "gumus_gram": 8633
+  },
+  {
+   "tarih": "2026-06-30",
+   "gram_altin": 596361,
+   "ceyrek_altin": 978800,
+   "gumus_gram": 8666
+  },
+  {
+   "tarih": "2026-07-01",
+   "gram_altin": 601880,
+   "ceyrek_altin": 987800,
+   "gumus_gram": 8768
+  },
+  {
+   "tarih": "2026-07-02",
+   "gram_altin": 615338,
+   "ceyrek_altin": 1009900,
+   "gumus_gram": 9033
+  },
+  {
+   "tarih": "2026-07-03",
+   "gram_altin": 624667,
+   "ceyrek_altin": 1025200,
+   "gumus_gram": 9275
+  },
+  {
+   "tarih": "2026-07-04",
+   "gram_altin": 624562,
+   "ceyrek_altin": 1025000,
+   "gumus_gram": 9277
+  },
+  {
+   "tarih": "2026-07-05",
+   "gram_altin": 624562,
+   "ceyrek_altin": 1025000,
+   "gumus_gram": 9277
+  },
+  {
+   "tarih": "2026-07-06",
+   "gram_altin": 622352,
+   "ceyrek_altin": 1021400,
+   "gumus_gram": 9231
+  },
+  {
+   "tarih": "2026-07-07",
+   "gram_altin": 614189,
+   "ceyrek_altin": 1008000,
+   "gumus_gram": 8941
+  },
+  {
+   "tarih": "2026-07-08",
+   "gram_altin": 612175,
+   "ceyrek_altin": 1004100,
+   "gumus_gram": 8704
+  },
+  {
+   "tarih": "2026-07-09",
+   "gram_altin": 617723,
+   "ceyrek_altin": 1012600,
+   "gumus_gram": 8954
+  },
+  {
+   "tarih": "2026-07-10",
+   "gram_altin": 616865,
+   "ceyrek_altin": 1011200,
+   "gumus_gram": 8928
+  },
+  {
+   "tarih": "2026-07-11",
+   "gram_altin": 614741,
+   "ceyrek_altin": 1007700,
+   "gumus_gram": 8904
+  },
+  {
+   "tarih": "2026-07-12",
+   "gram_altin": 614741,
+   "ceyrek_altin": 1007700,
+   "gumus_gram": 8904
+  },
+  {
+   "tarih": "2026-07-13",
+   "gram_altin": 600692,
+   "ceyrek_altin": 984700,
+   "gumus_gram": 8620
+  },
+  {
+   "tarih": "2026-07-14",
+   "gram_altin": 607638,
+   "ceyrek_altin": 996000,
+   "gumus_gram": 8775
+  },
+  {
+   "tarih": "2026-07-15",
+   "gram_altin": 610358,
+   "ceyrek_altin": 1000500,
+   "gumus_gram": 8651
+  },
+  {
+   "tarih": "2026-07-16",
+   "gram_altin": 598003,
+   "ceyrek_altin": 980200,
+   "gumus_gram": 8309
+  },
+  {
+   "tarih": "2026-07-17",
+   "gram_altin": 605981,
+   "ceyrek_altin": 993300,
+   "gumus_gram": 8387
+  },
+  {
+   "tarih": "2026-07-18",
+   "gram_altin": 606326,
+   "ceyrek_altin": 993900,
+   "gumus_gram": 8391
+  },
+  {
+   "tarih": "2026-07-19",
+   "gram_altin": 606326,
+   "ceyrek_altin": 993900,
+   "gumus_gram": 8391
+  },
+  {
+   "tarih": "2026-07-20",
+   "gram_altin": 603387,
+   "ceyrek_altin": 989100,
+   "gumus_gram": 8462
+  },
+  {
+   "tarih": "2026-07-21",
+   "gram_altin": 612204,
+   "ceyrek_altin": 1003500,
+   "gumus_gram": 8808
+  },
+  {
+   "tarih": "2026-07-22",
+   "gram_altin": 621089,
+   "ceyrek_altin": 1018100,
+   "gumus_gram": 8977
+  },
+  {
+   "tarih": "2026-07-23",
+   "gram_altin": 609821,
+   "ceyrek_altin": 999600,
+   "gumus_gram": 8659
+  },
+  {
+   "tarih": "2026-07-24",
+   "gram_altin": 611353,
+   "ceyrek_altin": 1002100,
+   "gumus_gram": 8750
+  },
+  {
+   "tarih": "2026-07-25",
+   "gram_altin": 612687,
+   "ceyrek_altin": 1004300,
+   "gumus_gram": 8764
+  },
+  {
+   "tarih": "2026-07-26",
+   "gram_altin": 612687,
+   "ceyrek_altin": 1004300,
+   "gumus_gram": 8764
+  },
+  {
+   "tarih": "2026-07-27",
+   "gram_altin": 614254,
+   "ceyrek_altin": 1006900,
+   "gumus_gram": 8786
+  },
+  {
+   "tarih": "2026-07-28",
+   "gram_altin": 608537,
+   "ceyrek_altin": 997500,
+   "gumus_gram": 8608
+  },
+  {
+   "tarih": "2026-07-29",
+   "gram_altin": 613295,
+   "ceyrek_altin": 1005300,
+   "gumus_gram": 8682
+  },
+  {
+   "tarih": "2026-07-30",
+   "gram_altin": 613375,
+   "ceyrek_altin": 1005400,
+   "gumus_gram": 8838
+  },
+  {
+   "tarih": "2026-07-31",
+   "gram_altin": 611458,
+   "ceyrek_altin": 1001700,
+   "gumus_gram": 8708
+  },
+  {
+   "tarih": "2026-08-01",
+   "gram_altin": 609309,
+   "ceyrek_altin": 998200,
+   "gumus_gram": 8682
+  },
+  {
+   "tarih": "2026-08-02",
+   "gram_altin": 609309,
+   "ceyrek_altin": 998200,
+   "gumus_gram": 8682
+  },
+  {
+   "tarih": "2026-08-03",
+   "gram_altin": 612006,
+   "ceyrek_altin": 1002600,
+   "gumus_gram": 8707
+  },
+  {
+   "tarih": "2026-08-04",
+   "gram_altin": 613127,
+   "ceyrek_altin": 1004400,
+   "gumus_gram": 8881
+  },
+  {
+   "tarih": "2026-08-05",
+   "gram_altin": 637333,
+   "ceyrek_altin": 1037700,
+   "gumus_gram": 9167
+  },
+  {
+   "tarih": "2026-08-06",
+   "gram_altin": 643630,
+   "ceyrek_altin": 1047900,
+   "gumus_gram": 9118
+  },
+  {
+   "tarih": "2026-08-07",
+   "gram_altin": 660826,
+   "ceyrek_altin": 1075900,
+   "gumus_gram": 9436
+  },
+  {
+   "tarih": "2026-08-08",
+   "gram_altin": 660224,
+   "ceyrek_altin": 1074900,
+   "gumus_gram": 9431
+  },
+  {
+   "tarih": "2026-08-09",
+   "gram_altin": 660224,
+   "ceyrek_altin": 1074900,
+   "gumus_gram": 9431
+  },
+  {
+   "tarih": "2026-08-10",
+   "gram_altin": 665589,
+   "ceyrek_altin": 1083700,
+   "gumus_gram": 9747
+  },
+  {
+   "tarih": "2026-08-11",
+   "gram_altin": 662220,
+   "ceyrek_altin": 1081500,
+   "gumus_gram": 9446
+  },
+  {
+   "tarih": "2026-08-12",
+   "gram_altin": 670634,
+   "ceyrek_altin": 1096600,
+   "gumus_gram": 9558
+  },
+  {
+   "tarih": "2026-08-13",
+   "gram_altin": 661795,
+   "ceyrek_altin": 1082200,
+   "gumus_gram": 9412
+  },
+  {
+   "tarih": "2026-08-14",
+   "gram_altin": 666102,
+   "ceyrek_altin": 1089200,
+   "gumus_gram": 9503
+  },
+  {
+   "tarih": "2026-08-15",
+   "gram_altin": 663514,
+   "ceyrek_altin": 1085000,
+   "gumus_gram": 9471
+  },
+  {
+   "tarih": "2026-08-16",
+   "gram_altin": 663514,
+   "ceyrek_altin": 1085000,
+   "gumus_gram": 9471
+  },
+  {
+   "tarih": "2026-08-17",
+   "gram_altin": 668513,
+   "ceyrek_altin": 1095200,
+   "gumus_gram": 9685
+  },
+  {
+   "tarih": "2026-08-18",
+   "gram_altin": 659247,
+   "ceyrek_altin": 1076700,
+   "gumus_gram": 9328
+  },
+  {
+   "tarih": "2026-08-19",
+   "gram_altin": 683691,
+   "ceyrek_altin": 1116600,
+   "gumus_gram": 9871
+  },
+  {
+   "tarih": "2026-08-20",
+   "gram_altin": 685356,
+   "ceyrek_altin": 1119300,
+   "gumus_gram": 10022
+  },
+  {
+   "tarih": "2026-08-21",
+   "gram_altin": 701719,
+   "ceyrek_altin": 1146000,
+   "gumus_gram": 10106
+  },
+  {
+   "tarih": "2026-08-22",
+   "gram_altin": 700612,
+   "ceyrek_altin": 1144200,
+   "gumus_gram": 10093
+  },
+  {
+   "tarih": "2026-08-23",
+   "gram_altin": 700612,
+   "ceyrek_altin": 1144200,
+   "gumus_gram": 10093
+  },
+  {
+   "tarih": "2026-08-24",
+   "gram_altin": 709619,
+   "ceyrek_altin": 1158900,
+   "gumus_gram": 10098
+  },
+  {
+   "tarih": "2026-08-25",
+   "gram_altin": 710824,
+   "ceyrek_altin": 1160900,
+   "gumus_gram": 10074
+  },
+  {
+   "tarih": "2026-08-26",
+   "gram_altin": 701650,
+   "ceyrek_altin": 1145900,
+   "gumus_gram": 9974
+  },
+  {
+   "tarih": "2026-08-27",
+   "gram_altin": 701574,
+   "ceyrek_altin": 1145800,
+   "gumus_gram": 10120
+  },
+  {
+   "tarih": "2026-08-28",
+   "gram_altin": 679719,
+   "ceyrek_altin": 1110100,
+   "gumus_gram": 9682
+  },
+  {
+   "tarih": "2026-08-29",
+   "gram_altin": 678911,
+   "ceyrek_altin": 1108800,
+   "gumus_gram": 9671
+  },
+  {
+   "tarih": "2026-08-30",
+   "gram_altin": 678911,
+   "ceyrek_altin": 1108800,
+   "gumus_gram": 9671
+  },
+  {
+   "tarih": "2026-08-31",
+   "gram_altin": 676969,
+   "ceyrek_altin": 1105600,
+   "gumus_gram": 9586
+  },
+  {
+   "tarih": "2026-09-01",
+   "gram_altin": 660640,
+   "ceyrek_altin": 1078900,
+   "gumus_gram": 9221
+  },
+  {
+   "tarih": "2026-09-02",
+   "gram_altin": 672866,
+   "ceyrek_altin": 1097500,
+   "gumus_gram": 9439
+  },
+  {
+   "tarih": "2026-09-03",
+   "gram_altin": 684361,
+   "ceyrek_altin": 1116300,
+   "gumus_gram": 9658
+  },
+  {
+   "tarih": "2026-09-04",
+   "gram_altin": 679695,
+   "ceyrek_altin": 1108700,
+   "gumus_gram": 9560
+  },
+  {
+   "tarih": "2026-09-05",
+   "gram_altin": 680993,
+   "ceyrek_altin": 1110800,
+   "gumus_gram": 9566
+  },
+  {
+   "tarih": "2026-09-06",
+   "gram_altin": 680993,
+   "ceyrek_altin": 1110800,
+   "gumus_gram": 9566
+  },
+  {
+   "tarih": "2026-09-07",
+   "gram_altin": 676298,
+   "ceyrek_altin": 1103100,
+   "gumus_gram": 9647
+  },
+  {
+   "tarih": "2026-09-08",
+   "gram_altin": 670735,
+   "ceyrek_altin": 1094100,
+   "gumus_gram": 9606
+  },
+  {
+   "tarih": "2026-09-09",
+   "gram_altin": 677039,
+   "ceyrek_altin": 1104400,
+   "gumus_gram": 9848
+  },
+  {
+   "tarih": "2026-09-10",
+   "gram_altin": 666030,
+   "ceyrek_altin": 1086400,
+   "gumus_gram": 9278
+  },
+  {
+   "tarih": "2026-09-11",
+   "gram_altin": 667615,
+   "ceyrek_altin": 1089000,
+   "gumus_gram": 9375
+  },
+  {
+   "tarih": "2026-09-12",
+   "gram_altin": 673241,
+   "ceyrek_altin": 1098200,
+   "gumus_gram": 9428
+  },
+  {
+   "tarih": "2026-09-13",
+   "gram_altin": 673241,
+   "ceyrek_altin": 1098200,
+   "gumus_gram": 9428
+  },
+  {
+   "tarih": "2026-09-14",
+   "gram_altin": 666379,
+   "ceyrek_altin": 1087000,
+   "gumus_gram": 9254
+  },
+  {
+   "tarih": "2026-09-15",
+   "gram_altin": 665228,
+   "ceyrek_altin": 1085100,
+   "gumus_gram": 9244
+  },
+  {
+   "tarih": "2026-09-16",
+   "gram_altin": 659126,
+   "ceyrek_altin": 1078400,
+   "gumus_gram": 9135
+  },
+  {
+   "tarih": "2026-09-17",
+   "gram_altin": 671740,
+   "ceyrek_altin": 1099100,
+   "gumus_gram": 9498
+  },
+  {
+   "tarih": "2026-09-18",
+   "gram_altin": 678377,
+   "ceyrek_altin": 1111300,
+   "gumus_gram": 9649
+  },
+  {
+   "tarih": "2026-09-19",
+   "gram_altin": 678426,
+   "ceyrek_altin": 1111400,
+   "gumus_gram": 9662
+  },
+  {
+   "tarih": "2026-09-20",
+   "gram_altin": 678426,
+   "ceyrek_altin": 1111400,
+   "gumus_gram": 9662
+  },
+  {
+   "tarih": "2026-09-21",
+   "gram_altin": 672601,
+   "ceyrek_altin": 1101800,
+   "gumus_gram": 9617
+  },
+  {
+   "tarih": "2026-09-22",
+   "gram_altin": 674951,
+   "ceyrek_altin": 1105700,
+   "gumus_gram": 9798
+  },
+  {
+   "tarih": "2026-09-23",
+   "gram_altin": 666617,
+   "ceyrek_altin": 1092000,
+   "gumus_gram": 9409
+  },
+  {
+   "tarih": "2026-09-24",
+   "gram_altin": 663466,
+   "ceyrek_altin": 1086900,
+   "gumus_gram": 9299
+  },
+  {
+   "tarih": "2026-09-25",
+   "gram_altin": 664724,
+   "ceyrek_altin": 1088900,
+   "gumus_gram": 9361
+  },
+  {
+   "tarih": "2026-09-26",
+   "gram_altin": 667095,
+   "ceyrek_altin": 1092800,
+   "gumus_gram": 9396
+  },
+  {
+   "tarih": "2026-09-27",
+   "gram_altin": 667095,
+   "ceyrek_altin": 1092800,
+   "gumus_gram": 9396
+  },
+  {
+   "tarih": "2026-09-28",
+   "gram_altin": 644980,
+   "ceyrek_altin": 1056600,
+   "gumus_gram": 8835
+  },
+  {
+   "tarih": "2026-09-29",
+   "gram_altin": 654991,
+   "ceyrek_altin": 1073000,
+   "gumus_gram": 8963
+  },
+  {
+   "tarih": "2026-09-30",
+   "gram_altin": 651888,
+   "ceyrek_altin": 1067900,
+   "gumus_gram": 8808
+  },
+  {
+   "tarih": "2026-10-01",
+   "gram_altin": 655419,
+   "ceyrek_altin": 1073700,
+   "gumus_gram": 8894
+  },
+  {
+   "tarih": "2026-10-02",
+   "gram_altin": 650763,
+   "ceyrek_altin": 1066100,
+   "gumus_gram": 8885
+  },
+  {
+   "tarih": "2026-10-03",
+   "gram_altin": 654026,
+   "ceyrek_altin": 1071400,
+   "gumus_gram": 8897
+  },
+  {
+   "tarih": "2026-10-04",
+   "gram_altin": 654026,
+   "ceyrek_altin": 1071400,
+   "gumus_gram": 8897
+  },
+  {
+   "tarih": "2026-10-05",
+   "gram_altin": 651358,
+   "ceyrek_altin": 1067000,
+   "gumus_gram": 8992
+  },
+  {
+   "tarih": "2026-10-06",
+   "gram_altin": 655741,
+   "ceyrek_altin": 1074200,
+   "gumus_gram": 9057
+  },
+  {
+   "tarih": "2026-10-07",
+   "gram_altin": 648049,
+   "ceyrek_altin": 1061600,
+   "gumus_gram": 8816
+  },
+  {
+   "tarih": "2026-10-08",
+   "gram_altin": 650774,
+   "ceyrek_altin": 1066100,
+   "gumus_gram": 8718
+  },
+  {
+   "tarih": "2026-10-09",
+   "gram_altin": 655696,
+   "ceyrek_altin": 1074200,
+   "gumus_gram": 8932
+  },
+  {
+   "tarih": "2026-10-10",
+   "gram_altin": 658074,
+   "ceyrek_altin": 1078100,
+   "gumus_gram": 8971
+  },
+  {
+   "tarih": "2026-10-11",
+   "gram_altin": 658074,
+   "ceyrek_altin": 1078100,
+   "gumus_gram": 8971
+  },
+  {
+   "tarih": "2026-10-12",
+   "gram_altin": 655021,
+   "ceyrek_altin": 1073100,
+   "gumus_gram": 8898
+  },
+  {
+   "tarih": "2026-10-13",
+   "gram_altin": 653580,
+   "ceyrek_altin": 1070700,
+   "gumus_gram": 8733
+  },
+  {
+   "tarih": "2026-10-14",
+   "gram_altin": 646809,
+   "ceyrek_altin": 1059600,
+   "gumus_gram": 8186
+  },
+  {
+   "tarih": "2026-10-15",
+   "gram_altin": 655244,
+   "ceyrek_altin": 1073400,
+   "gumus_gram": 8541
+  },
+  {
+   "tarih": "2026-10-16",
+   "gram_altin": 654785,
+   "ceyrek_altin": 1072700,
+   "gumus_gram": 8483
+  },
+  {
+   "tarih": "2026-10-17",
+   "gram_altin": 656894,
+   "ceyrek_altin": 1076100,
+   "gumus_gram": 8494
+  },
+  {
+   "tarih": "2026-10-18",
+   "gram_altin": 656894,
+   "ceyrek_altin": 1076100,
+   "gumus_gram": 8494
+  },
+  {
+   "tarih": "2026-10-19",
+   "gram_altin": 652863,
+   "ceyrek_altin": 1069500,
+   "gumus_gram": 8519
+  },
+  {
    "tarih": "2026-10-20",
    "usd": 4949,
    "eur": 5552,
-   "gbp": 6594
+   "gbp": 6594,
+   "gram_altin": 652321,
+   "ceyrek_altin": 1068600,
+   "gumus_gram": 8674
   },
   {
    "tarih": "2026-10-21",
    "usd": 4951,
    "eur": 5558,
-   "gbp": 6619
+   "gbp": 6619,
+   "gram_altin": 653674,
+   "ceyrek_altin": 1070800,
+   "gumus_gram": 8663
   },
   {
    "tarih": "2026-10-22",
    "usd": 4954,
    "eur": 5560,
-   "gbp": 6624
+   "gbp": 6624,
+   "gram_altin": 639329,
+   "ceyrek_altin": 1047300,
+   "gumus_gram": 8187
   },
   {
    "tarih": "2026-10-23",
    "usd": 4956,
    "eur": 5550,
-   "gbp": 6619
+   "gbp": 6619,
+   "gram_altin": 636544,
+   "ceyrek_altin": 1042800,
+   "gumus_gram": 8084
+  },
+  {
+   "tarih": "2026-10-24",
+   "gram_altin": 638988,
+   "ceyrek_altin": 1046800,
+   "gumus_gram": 8109
+  },
+  {
+   "tarih": "2026-10-25",
+   "gram_altin": 638988,
+   "ceyrek_altin": 1046800,
+   "gumus_gram": 8109
   },
   {
    "tarih": "2026-10-26",
    "usd": 4967,
    "eur": 5565,
-   "gbp": 6622
+   "gbp": 6622,
+   "gram_altin": 639956,
+   "ceyrek_altin": 1048400,
+   "gumus_gram": 8107
   },
   {
    "tarih": "2026-10-27",
    "usd": 4970,
    "eur": 5542,
-   "gbp": 6609
+   "gbp": 6609,
+   "gram_altin": 645930,
+   "ceyrek_altin": 1058200,
+   "gumus_gram": 8193
+  },
+  {
+   "tarih": "2026-10-28",
+   "gram_altin": 648186,
+   "ceyrek_altin": 1061900,
+   "gumus_gram": 8159
+  },
+  {
+   "tarih": "2026-10-29",
+   "gram_altin": 640425,
+   "ceyrek_altin": 1049100,
+   "gumus_gram": 7864
   },
   {
    "tarih": "2026-10-30",
    "usd": 4977,
    "eur": 5571,
-   "gbp": 6667
+   "gbp": 6667,
+   "gram_altin": 619335,
+   "ceyrek_altin": 1014600,
+   "gumus_gram": 7379
+  },
+  {
+   "tarih": "2026-10-31",
+   "gram_altin": 620684,
+   "ceyrek_altin": 1015600,
+   "gumus_gram": 7458
+  },
+  {
+   "tarih": "2026-11-01",
+   "gram_altin": 620684,
+   "ceyrek_altin": 1015600,
+   "gumus_gram": 7458
   },
   {
    "tarih": "2026-11-02",
    "usd": 4988,
    "eur": 5590,
-   "gbp": 6681
+   "gbp": 6681,
+   "gram_altin": 630362,
+   "ceyrek_altin": 1029500,
+   "gumus_gram": 7697
   },
   {
    "tarih": "2026-11-03",
    "usd": 4991,
    "eur": 5585,
-   "gbp": 6684
+   "gbp": 6684,
+   "gram_altin": 629026,
+   "ceyrek_altin": 1027300,
+   "gumus_gram": 7588
   },
   {
    "tarih": "2026-11-04",
    "usd": 4994,
    "eur": 5616,
-   "gbp": 6719
+   "gbp": 6719,
+   "gram_altin": 651158,
+   "ceyrek_altin": 1063400,
+   "gumus_gram": 8005
   },
   {
    "tarih": "2026-11-05",
    "usd": 4996,
    "eur": 5615,
-   "gbp": 6719
+   "gbp": 6719,
+   "gram_altin": 656143,
+   "ceyrek_altin": 1073600,
+   "gumus_gram": 8040
   },
   {
    "tarih": "2026-11-06",
    "usd": 4998,
    "eur": 5586,
-   "gbp": 6685
+   "gbp": 6685,
+   "gram_altin": 652895,
+   "ceyrek_altin": 1068300,
+   "gumus_gram": 8042
+  },
+  {
+   "tarih": "2026-11-07",
+   "gram_altin": 654303,
+   "ceyrek_altin": 1070600,
+   "gumus_gram": 8050
+  },
+  {
+   "tarih": "2026-11-08",
+   "gram_altin": 654303,
+   "ceyrek_altin": 1070600,
+   "gumus_gram": 8050
   },
   {
    "tarih": "2026-11-09",
    "usd": 5009,
    "eur": 5601,
-   "gbp": 6703
+   "gbp": 6703,
+   "gram_altin": 664003,
+   "ceyrek_altin": 1086400,
+   "gumus_gram": 8280
   },
   {
    "tarih": "2026-11-10",
    "usd": 5011,
    "eur": 5628,
-   "gbp": 6723
+   "gbp": 6723,
+   "gram_altin": 647385,
+   "ceyrek_altin": 1059200,
+   "gumus_gram": 7987
   },
   {
    "tarih": "2026-11-11",
    "usd": 5014,
    "eur": 5588,
-   "gbp": 6669
+   "gbp": 6669,
+   "gram_altin": 640863,
+   "ceyrek_altin": 1048600,
+   "gumus_gram": 8029
   },
   {
    "tarih": "2026-11-12",
    "usd": 5017,
    "eur": 5564,
-   "gbp": 6646
+   "gbp": 6646,
+   "gram_altin": 624774,
+   "ceyrek_altin": 1022200,
+   "gumus_gram": 7752
   },
   {
    "tarih": "2026-11-13",
    "usd": 5019,
    "eur": 5550,
-   "gbp": 6630
+   "gbp": 6630,
+   "gram_altin": 627471,
+   "ceyrek_altin": 1026700,
+   "gumus_gram": 7588
+  },
+  {
+   "tarih": "2026-11-14",
+   "gram_altin": 629354,
+   "ceyrek_altin": 1029700,
+   "gumus_gram": 7565
+  },
+  {
+   "tarih": "2026-11-15",
+   "gram_altin": 629354,
+   "ceyrek_altin": 1029700,
+   "gumus_gram": 7565
   },
   {
    "tarih": "2026-11-16",
    "usd": 5030,
    "eur": 5540,
-   "gbp": 6628
+   "gbp": 6628,
+   "gram_altin": 624248,
+   "ceyrek_altin": 1021400,
+   "gumus_gram": 7287
   },
   {
    "tarih": "2026-11-17",
    "usd": 5033,
    "eur": 5534,
-   "gbp": 6628
+   "gbp": 6628,
+   "gram_altin": 625355,
+   "ceyrek_altin": 1023200,
+   "gumus_gram": 7338
   },
   {
    "tarih": "2026-11-18",
    "usd": 5035,
    "eur": 5525,
-   "gbp": 6621
+   "gbp": 6621,
+   "gram_altin": 607833,
+   "ceyrek_altin": 994500,
+   "gumus_gram": 6984
   },
   {
    "tarih": "2026-11-19",
    "usd": 5038,
    "eur": 5536,
-   "gbp": 6616
+   "gbp": 6616,
+   "gram_altin": 600790,
+   "ceyrek_altin": 984200,
+   "gumus_gram": 6804
   },
   {
    "tarih": "2026-11-20",
    "usd": 5040,
    "eur": 5530,
    "gbp": 6594,
-   "gram_altin": 573097,
+   "gram_altin": 589921,
+   "ceyrek_altin": 967900,
+   "gumus_gram": 6323
+  },
+  {
+   "tarih": "2026-11-21",
+   "gram_altin": 598975,
    "ceyrek_altin": 983000,
-   "gumus_gram": 6657
+   "gumus_gram": 6394
+  },
+  {
+   "tarih": "2026-11-22",
+   "gram_altin": 598975,
+   "ceyrek_altin": 983000,
+   "gumus_gram": 6394
   }
  ]
 }
