@@ -1,11 +1,11 @@
 ﻿# Kişisel Finans — bilgisayar köprüsü kurulumu (Windows)
 # Kullanım: kur.ps1 ve kopru.mjs dosyalarını aynı klasöre indirip PowerShell'de:
 #   powershell -ExecutionPolicy Bypass -File .\kur.ps1
-# (Site erişilebilirse: irm https://kisisel-finans-app.pages.dev/kopru/kur.ps1 | iex)
+# kopru.mjs yanında yoksa uygulamanın adresinden indirilir.
 # Birden fazla kez çalıştırmak güvenlidir: kurulu olanı atlar.
 
 $ErrorActionPreference = 'Stop'
-$Site = 'https://kisisel-finans-app.pages.dev'
+$Site = 'https://fatihdlcgl42-jpg.github.io'
 $Dizin = Join-Path $env:LOCALAPPDATA 'KisiselFinansKopru'
 New-Item -ItemType Directory -Force -Path $Dizin | Out-Null
 
