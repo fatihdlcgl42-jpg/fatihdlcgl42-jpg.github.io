@@ -1,0 +1,109 @@
+{
+ "guncelleme": "2026-11-22T05:25:00+03:00",
+ "haftalikOzet": "Ekim enflasyonu yıllık %29,77 ile eylüle yakın kaldı; kasım kira artış sınırı %31,23 oldu. 2027 için yeniden değerleme oranı %27,83 belirlendi; vergi, harç ve cezalar yeni yılda bu oranda artacak. Merkez Bankası ekimde faizi %36'ya indirdi, sonraki karar 10 Aralık'ta. Akaryakıtta kademeli ÖTV artışı sürüyor; memur zammı ise ocak başında netleşecek.",
+ "maddeler": [
+  {
+   "id": "2026-11-03-enflasyon-ekim",
+   "tarih": "2026-11-03",
+   "baslik": "Ekim enflasyonu: yıllık %29,77",
+   "ozet": "TÜİK verilerine göre tüketici fiyatları ekimde aylık %2,58, yıllık %29,77 arttı. Yıllık enflasyon eylüldeki %29,73 ile neredeyse aynı kaldı.",
+   "tur": "bilgi",
+   "etiketler": [
+    "herkes"
+   ],
+   "kaynak": {
+    "ad": "TCMB – Tüketici Fiyatları",
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Tuketici+Fiyatlari"
+   }
+  },
+  {
+   "id": "2026-11-03-kira-siniri",
+   "tarih": "2026-11-03",
+   "baslik": "Kasım kira artış sınırı %31,23",
+   "ozet": "Kasımda yenilenen konut ve iş yeri kira sözleşmelerinde artış, 12 aylık ortalama TÜFE değişimi olan %31,23'ü aşamaz (Türk Borçlar Kanunu 344. madde). Sözleşmede daha düşük oran yazıyorsa o uygulanır.",
+   "tur": "bilgi",
+   "etiketler": [
+    "kiraci",
+    "ev_sahibi",
+    "kira_geliri"
+   ],
+   "sonTarih": "2026-11-30",
+   "ne_yapmali": "Kira yenilemeniz kasımdaysa ev sahibinin istediği artışın %31,23'ü geçmediğini kontrol edin. Aralık sınırı 3 Aralık'ta açıklanacak.",
+   "kaynak": {
+    "ad": "CNBC-e",
+    "url": "https://www.cnbce.com/veriler/kasimda-ev-ve-is-yeri-kiralarina-yapilabilecek-zam-orani-belli-oldu-g40885"
+   }
+  },
+  {
+   "id": "2026-11-03-yeniden-degerleme-2027",
+   "tarih": "2026-11-03",
+   "baslik": "2027 yeniden değerleme oranı %27,83: vergi, harç ve cezalar artacak",
+   "ozet": "Yeniden değerleme oranı %27,83 oldu. 2027'de pasaport, ehliyet, telefon kayıt harçları, MTV ve trafik cezaları gibi birçok kalem bu oranda artacak; kesin tutarlar Resmî Gazete'de yayımlanacak.",
+   "tur": "risk",
+   "etiketler": [
+    "herkes",
+    "arac_sahibi"
+   ],
+   "ne_yapmali": "Pasaport veya ehliyet yenilemeniz yaklaşıyorsa yıl bitmeden yaptırmak daha ucuz olabilir.",
+   "sonTarih": "2026-12-31",
+   "kaynak": {
+    "ad": "Bloomberg HT",
+    "url": "https://www.bloomberght.com/2027-icin-yeniden-degerleme-orani-belli-oldu-3793170"
+   }
+  },
+  {
+   "id": "2026-10-22-tcmb-faiz",
+   "tarih": "2026-10-22",
+   "baslik": "Merkez Bankası faizi %36'ya indirdi",
+   "ozet": "TCMB politika faizini %37'den %36'ya indirdi (9 ay aradan sonra ilk indirim). Mevduat ve kredi faizlerinde yavaş bir düşüş beklenebilir. Sonraki karar 10 Aralık 2026.",
+   "tur": "bilgi",
+   "etiketler": [
+    "herkes",
+    "mevduat",
+    "kredi",
+    "kredi_karti"
+   ],
+   "kaynak": {
+    "ad": "TCMB basın duyurusu",
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/9813c150-5629-41ee-aab4-ed4e3ad2b740/DUY2026-45.pdf?MOD=AJPERES"
+   }
+  },
+  {
+   "id": "2026-11-01-akaryakit-otv",
+   "tarih": "2026-11-01",
+   "baslik": "Akaryakıtta kademeli ÖTV artışı: benzin ve motorine zam",
+   "ozet": "1 Kasım'da kademeli ÖTV düzenlemesiyle benzinin litresine yaklaşık 4 TL, motorine yaklaşık 3,6 TL zam yansıdı. Haberlere göre ÖTV artışı aralıkta da sürecek.",
+   "tur": "risk",
+   "etiketler": [
+    "arac_sahibi"
+   ],
+   "etki": {
+    "kategoriId": "k-ulasim",
+    "yuzde": 5
+   },
+   "ne_yapmali": "Aylık akaryakıt bütçenizi yaklaşık %5 artırın; aralıktaki ikinci adımı takip edin.",
+   "kaynak": {
+    "ad": "NTV",
+    "url": "https://www.ntv.com.tr/ntvpara/benzine-kademeli-otv-artisi-1744242"
+   }
+  },
+  {
+   "id": "2026-11-memur-ocak-2027",
+   "tarih": "2026-11-11",
+   "baslik": "Memur ve emniyet personeli: Ocak 2027 zammı",
+   "ozet": "Toplu sözleşmeye göre memur maaşlarına 2027'nin ilk yarısında %5 zam yapılacak; 2026'nın ikinci yarısındaki enflasyon %7'yi aşarsa üstüne enflasyon farkı eklenecek. Kesin oran Aralık enflasyonu açıklanınca (Ocak başı) belli olacak. Polis maaşları da aynı hesapla artar.",
+   "tur": "firsat",
+   "etiketler": [
+    "kamu",
+    "memur",
+    "polis",
+    "emekli"
+   ],
+   "ne_yapmali": "Ocak bütçenizi şimdilik yalnızca %5 artışla planlayın; kesin oran ocak başında gelince güncelleyin.",
+   "kaynak": {
+    "ad": "Cumhuriyet",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/memur-ve-emeklinin-ocak-zammi-hesabi-basladi-iste-masadaki-iki-farkli-oran-2526008"
+   }
+  }
+ ]
+}

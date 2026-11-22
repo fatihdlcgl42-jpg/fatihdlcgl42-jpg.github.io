@@ -1,0 +1,254 @@
+{
+ "guncelleme": "2026-11-22T05:25:00+03:00",
+ "not": "Etki yüzdeleri dolar/TL için TCMB gösterge kurlarından (olaydan önceki iş günü kapanışına göre) hesaplanmıştır; altın etkisi resmî geçmiş veri bulunamadığı için yazılmamıştır.",
+ "olaylar": [
+  {
+   "id": "2008-lehman",
+   "tarih": "2008-09-15",
+   "baslik": "Lehman Brothers iflası (küresel kriz)",
+   "aciklama": "ABD yatırım bankası Lehman Brothers iflas etti; küresel finans krizi derinleşti, gelişmekte olan ülke paralarından çıkış yaşandı.",
+   "tur": "kriz",
+   "etki": {
+    "usd_1hafta": -0.4,
+    "usd_1ay": 12.1,
+    "usd_3ay": 25.7
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2013-taper",
+   "tarih": "2013-05-22",
+   "baslik": "Fed \"taper\" sinyali",
+   "aciklama": "Fed Başkanı Bernanke tahvil alımlarının azaltılabileceğini söyledi; gelişmekte olan ülke paraları değer kaybetti.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 0.9,
+    "usd_1ay": 4.5,
+    "usd_3ay": 6.0
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2016-darbe",
+   "tarih": "2016-07-15",
+   "baslik": "15 Temmuz darbe girişimi",
+   "aciklama": "Türkiye'de darbe girişimi sonrası TL ani değer kaybetti.",
+   "tur": "kriz",
+   "etki": {
+    "usd_1hafta": 5.7,
+    "usd_1ay": 2.2,
+    "usd_3ay": 6.8
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2018-kur-krizi",
+   "tarih": "2018-08-10",
+   "baslik": "Ağustos 2018 kur krizi",
+   "aciklama": "ABD ile gerginlik ve yaptırımlar sonrası TL sert değer kaybetti.",
+   "tur": "kriz",
+   "etki": {
+    "usd_1hafta": 11.0,
+    "usd_1ay": 19.8,
+    "usd_3ay": 1.5
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2020-salgin",
+   "tarih": "2020-03-11",
+   "baslik": "Dünya Sağlık Örgütü COVID-19'u salgın ilan etti",
+   "aciklama": "Küresel piyasalarda satış dalgası; altına ve dolara talep arttı.",
+   "tur": "kriz",
+   "etki": {
+    "usd_1hafta": 5.5,
+    "usd_1ay": 9.4,
+    "usd_3ay": 10.8
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2021-kkm",
+   "tarih": "2021-12-20",
+   "baslik": "Kur Korumalı Mevduat açıklandı",
+   "aciklama": "Faiz indirimleriyle hızlanan değer kaybının ardından Kur Korumalı Mevduat açıklandı; TL kısa sürede sert değer kazandı.",
+   "tur": "diger",
+   "etki": {
+    "usd_1hafta": -30.3,
+    "usd_1ay": -16.9,
+    "usd_3ay": -9.3
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2022-ukrayna",
+   "tarih": "2022-02-24",
+   "baslik": "Rusya'nın Ukrayna'yı işgali",
+   "aciklama": "Savaş enerji ve emtia fiyatlarını yükseltti; güvenli liman talebi arttı.",
+   "tur": "savas",
+   "etki": {
+    "usd_1hafta": 2.4,
+    "usd_1ay": 7.4,
+    "usd_3ay": 18.7
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2022-fed-artis",
+   "tarih": "2022-03-16",
+   "baslik": "Fed faiz artırımlarına başladı",
+   "aciklama": "Fed 2018'den bu yana ilk kez faiz artırdı; hızlı artış dönemi başladı.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 0.4,
+    "usd_1ay": -0.9,
+    "usd_3ay": 17.0
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2023-secim",
+   "tarih": "2023-05-28",
+   "baslik": "Cumhurbaşkanlığı seçimi ikinci tur",
+   "aciklama": "Seçim sonrası dönemde TL değer kaybı hızlandı.",
+   "tur": "secim",
+   "etki": {
+    "usd_1hafta": 4.5,
+    "usd_1ay": 29.4,
+    "usd_3ay": 32.4
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2023-para-politikasi",
+   "tarih": "2023-06-22",
+   "baslik": "TCMB faizi %8,5'ten %15'e çıkardı",
+   "aciklama": "Para politikasında sıkılaştırma dönemi başladı; kur önce hızla yükseldi.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 9.7,
+    "usd_1ay": 14.2,
+    "usd_3ay": 14.7
+   },
+   "kaynak": {
+    "ad": "TCMB – politika faizi geçmişi",
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/1+Hafta+Repo"
+   }
+  },
+  {
+   "id": "2023-israil-gazze",
+   "tarih": "2023-10-09",
+   "baslik": "İsrail-Gazze savaşı",
+   "aciklama": "7 Ekim sonrası Orta Doğu'da savaş; altına güvenli liman talebi arttı.",
+   "tur": "savas",
+   "etki": {
+    "usd_1hafta": 1.0,
+    "usd_1ay": 3.3,
+    "usd_3ay": 8.3
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2024-fed-indirim",
+   "tarih": "2024-09-18",
+   "baslik": "Fed faiz indirimlerine başladı",
+   "aciklama": "Fed faizi 50 baz puan indirdi.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 0.4,
+    "usd_1ay": 0.6,
+    "usd_3ay": 2.9
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2024-tcmb-indirim",
+   "tarih": "2024-12-26",
+   "baslik": "TCMB faiz indirimlerine başladı",
+   "aciklama": "Politika faizi %50'den %47,5'e indirildi.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 0.1,
+    "usd_1ay": 1.1,
+    "usd_3ay": 7.7
+   },
+   "kaynak": {
+    "ad": "TCMB – politika faizi geçmişi",
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/1+Hafta+Repo"
+   }
+  },
+  {
+   "id": "2025-mart-dalgalanma",
+   "tarih": "2025-03-19",
+   "baslik": "Mart 2025 siyasi gelişmeler ve kur dalgalanması",
+   "aciklama": "İstanbul Büyükşehir Belediye Başkanı'nın gözaltına alınmasının ardından piyasalarda dalgalanma yaşandı; TCMB rezerv satışı ve faiz adımlarıyla müdahale etti.",
+   "tur": "kriz",
+   "etki": {
+    "usd_1hafta": 3.7,
+    "usd_1ay": 3.9,
+    "usd_3ay": 7.7
+   },
+   "kaynak": {
+    "ad": "Dolar/TL etkisi: TCMB gösterge kurları arşivi",
+    "url": "https://www.tcmb.gov.tr/kurlar/kurlar_tr.html"
+   }
+  },
+  {
+   "id": "2026-10-22-tcmb",
+   "tarih": "2026-10-22",
+   "baslik": "TCMB faizi %37'den %36'ya indirdi",
+   "aciklama": "Para Politikası Kurulu 9 aylık aranın ardından 100 baz puan indirim yaptı; enerji fiyatlarının enflasyon üzerindeki yukarı yönlü riskleri vurgulandı. Sonraki toplantı 10 Aralık 2026.",
+   "tur": "faiz",
+   "etki": {
+    "usd_1hafta": 0.4
+   },
+   "analiz": {
+    "altin": "belirsiz",
+    "usd": "yukari",
+    "guven": "orta",
+    "gerekce": "Küçük ve beklenen bir indirim; kur, TCMB'nin kontrollü değer kaybı politikasıyla yavaş yükselmeye devam ediyor (kararın ilk haftasında dolar/TL %0,4). Gram altın daha çok ons fiyatına bağlı; bu karar tek başına yön belirlemez.",
+    "benzerler": [
+     "2024-tcmb-indirim",
+     "2024-fed-indirim"
+    ]
+   },
+   "kaynak": {
+    "ad": "TCMB basın duyurusu",
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/9813c150-5629-41ee-aab4-ed4e3ad2b740/DUY2026-45.pdf?MOD=AJPERES"
+   }
+  }
+ ]
+}
