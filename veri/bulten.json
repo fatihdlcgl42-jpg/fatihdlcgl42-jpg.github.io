@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T05:25:00+03:00",
+ "guncelleme": "2026-11-22T17:53:00+03:00",
  "haftalikOzet": "Ekim enflasyonu yıllık %29,77 ile eylüle yakın kaldı; kasım kira artış sınırı %31,23 oldu. 2027 için yeniden değerleme oranı %27,83 belirlendi; vergi, harç ve cezalar yeni yılda bu oranda artacak. Merkez Bankası ekimde faizi %36'ya indirdi, sonraki karar 10 Aralık'ta. Akaryakıtta kademeli ÖTV artışı sürüyor; memur zammı ise ocak başında netleşecek.",
  "maddeler": [
   {
@@ -103,6 +103,25 @@
    "kaynak": {
     "ad": "Cumhuriyet",
     "url": "https://www.cumhuriyet.com.tr/ekonomi/memur-ve-emeklinin-ocak-zammi-hesabi-basladi-iste-masadaki-iki-farkli-oran-2526008"
+   }
+  },
+  {
+   "id": "2026-11-21-akaryakit-indirim",
+   "tarih": "2026-11-21",
+   "baslik": "Akaryakıtta indirim: motorine 6,58 TL, benzine 1,86 TL",
+   "ozet": "Petrol fiyatlarındaki düşüşle motorinin litresi 20 Kasım'da 6,58 TL, benzinin litresi 21 Kasım'da 1,86 TL ucuzladı. İstanbul Avrupa Yakası'nda benzin 68,40 TL, motorin 88,80 TL oldu.",
+   "tur": "firsat",
+   "etiketler": [
+    "arac_sahibi"
+   ],
+   "etki": {
+    "kategoriId": "k-ulasim",
+    "yuzde": -2.6
+   },
+   "ne_yapmali": "Benzinli araçta yakıt gideri yaklaşık %2,6, dizelde yaklaşık %7 azalır; aralıktaki ÖTV adımını takip edin.",
+   "kaynak": {
+    "ad": "Timeturk",
+    "url": "https://www.timeturk.com/21-kasim-akaryakit-fiyatlari-benzine-de-indirim-geldi-6840-tl-oldu"
    }
   }
  ]
