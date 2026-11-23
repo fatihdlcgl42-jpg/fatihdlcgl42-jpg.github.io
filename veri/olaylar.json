@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T05:25:00+03:00",
+ "guncelleme": "2026-11-23T09:53:00+03:00",
  "not": "Etki yüzdeleri dolar/TL için TCMB gösterge kurlarından (olaydan önceki iş günü kapanışına göre) hesaplanmıştır; altın etkisi resmî geçmiş veri bulunamadığı için yazılmamıştır.",
  "olaylar": [
   {
@@ -248,6 +248,11 @@
    "kaynak": {
     "ad": "TCMB basın duyurusu",
     "url": "https://www.tcmb.gov.tr/wps/wcm/connect/9813c150-5629-41ee-aab4-ed4e3ad2b740/DUY2026-45.pdf?MOD=AJPERES"
+   },
+   "sonuc": {
+    "altin_1ay": -9.8,
+    "usd_1ay": 1.8,
+    "tuttu": true
    }
   }
  ]
