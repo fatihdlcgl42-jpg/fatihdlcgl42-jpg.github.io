@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T21:41:00+03:00",
+ "guncelleme": "2026-11-24T17:54:00+03:00",
  "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
@@ -38,7 +38,7 @@
    "id": "2026-11-03-yeniden-degerleme-2027",
    "tarih": "2026-11-03",
    "baslik": "2027 yeniden değerleme oranı %27,83: vergi, harç ve cezalar artacak",
-   "ozet": "Yeniden değerleme oranı %27,83 oldu. 2027'de pasaport, ehliyet, telefon kayıt harçları, MTV ve trafik cezaları gibi birçok kalem bu oranda artacak; kesin tutarlar Resmî Gazete'de yayımlanacak.",
+   "ozet": "Yeniden değerleme oranı %27,83 oldu ve 24 Kasım 2026'da Resmî Gazete'de (VUK Genel Tebliği Sıra No: 599) resmen ilan edildi. 2027'de pasaport, ehliyet, telefon kayıt harçları, MTV ve trafik cezaları gibi birçok kalem bu oranda artacak.",
    "tur": "risk",
    "etiketler": [
     "herkes",
@@ -47,8 +47,8 @@
    "ne_yapmali": "Pasaport veya ehliyet yenilemeniz yaklaşıyorsa yıl bitmeden yaptırmak daha ucuz olabilir.",
    "sonTarih": "2026-12-31",
    "kaynak": {
-    "ad": "Bloomberg HT",
-    "url": "https://www.bloomberght.com/2027-icin-yeniden-degerleme-orani-belli-oldu-3793170"
+    "ad": "Resmî Gazete, 24.11.2026 (VUK Tebliği 599)",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm"
    }
   },
   {
@@ -200,6 +200,26 @@
    "kaynak": {
     "ad": "Karar",
     "url": "https://www.karar.com/guncel-haberler/kredi-karti-ve-ihtiyac-kredisi-borclarina-yeni-yapilandirma-geliyor-60-2085242"
+   }
+  },
+  {
+   "id": "2026-11-24-akaryakit-otv-aralik",
+   "tarih": "2026-11-24",
+   "baslik": "Akaryakıta 1 Aralık'ta ÖTV zammı bekleniyor",
+   "ozet": "Sektör kaynaklarına dayanan haberlere göre 1 Aralık'taki ÖTV güncellemesiyle benzinin litresine yaklaşık 4,15 TL, motorine yaklaşık 3,60 TL zam bekleniyor. Öncesinde perşembe günü küçük bir indirim gelebilir. Tutarlar henüz resmî değil.",
+   "tur": "risk",
+   "etiketler": [
+    "arac_sahibi"
+   ],
+   "sonTarih": "2026-12-01",
+   "etki": {
+    "kategoriId": "k-ulasim",
+    "yuzde": 6
+   },
+   "ne_yapmali": "Depoyu 30 Kasım'a kadar doldurmak zamdan önceki fiyattan yararlanmanızı sağlar.",
+   "kaynak": {
+    "ad": "Elips Haber",
+    "url": "https://www.elipshaber.com/akaryakita-once-indirim-sonra-cifte-zam-tarih-belli-oldu"
    }
   }
  ]
