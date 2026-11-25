@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T09:53:00+03:00",
+ "guncelleme": "2026-11-25T17:54:00+03:00",
  "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
@@ -237,6 +237,22 @@
    "kaynak": {
     "ad": "CNBC-e (TCMB azami faiz oranları)",
     "url": "https://www.cnbce.com/haberler/tcmb-kredi-karti-faizlerini-dusurdu-yeni-oranlar-1-aralikta-basliyor-h42508"
+   }
+  },
+  {
+   "id": "2026-11-26-motorin-indirim",
+   "tarih": "2026-11-26",
+   "baslik": "Motorine 4,32 TL indirim (26 Kasım)",
+   "ozet": "Motorinin litresi 26 Kasım'dan itibaren 4,32 TL ucuzladı: Ankara'da 85,68 TL, İstanbul'da 84,58 TL. Benzinde değişiklik yok. 1 Aralık'ta ÖTV artışıyla yeniden zam bekleniyor.",
+   "tur": "firsat",
+   "etiketler": [
+    "arac_sahibi"
+   ],
+   "sonTarih": "2026-11-30",
+   "ne_yapmali": "Dizel aracınız varsa depoyu 26-30 Kasım arasında doldurmak, hem indirimden yararlanmanızı hem de 1 Aralık zammından önce almanızı sağlar.",
+   "kaynak": {
+    "ad": "Enerji Günlüğü",
+    "url": "https://www.enerjigunlugu.net/motorinde-indirim-70712h.htm"
    }
   }
  ]
