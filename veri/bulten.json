@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-24T17:54:00+03:00",
+ "guncelleme": "2026-11-25T09:53:00+03:00",
  "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
@@ -220,6 +220,23 @@
    "kaynak": {
     "ad": "Elips Haber",
     "url": "https://www.elipshaber.com/akaryakita-once-indirim-sonra-cifte-zam-tarih-belli-oldu"
+   }
+  },
+  {
+   "id": "2026-11-24-kart-kmh-azami-faiz",
+   "tarih": "2026-11-24",
+   "baslik": "Kredi kartı ve ek hesap (KMH) azami faizleri 1 Aralık'ta düşüyor",
+   "ozet": "TCMB referans oranı 3 yıl sonra ilk kez %3,11'den %2,94'e indirdi. 1 Aralık'tan itibaren aylık azami kart faizi dönem borcu 30 bin TL altında %3,08, 30-180 bin TL arası %3,58, üstünde %4,08; nakit avans ve KMH faizi %4,25'ten %4,08'e iniyor.",
+   "tur": "firsat",
+   "etiketler": [
+    "kredi_karti",
+    "kredi"
+   ],
+   "sonTarih": "2026-12-01",
+   "ne_yapmali": "Aralık ekstrenizde bankanın uyguladığı faizin bu sınırları aşmadığını kontrol edin. Faiz düşse de KMH ve kart borcu en pahalı borçlardır; borç planında önce bunları kapatın.",
+   "kaynak": {
+    "ad": "CNBC-e (TCMB azami faiz oranları)",
+    "url": "https://www.cnbce.com/haberler/tcmb-kredi-karti-faizlerini-dusurdu-yeni-oranlar-1-aralikta-basliyor-h42508"
    }
   }
  ]

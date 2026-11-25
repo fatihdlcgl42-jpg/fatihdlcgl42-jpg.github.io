@@ -1,29 +1,29 @@
 {
- "guncelleme": "2026-11-24T17:54:00+03:00",
+ "guncelleme": "2026-11-25T09:53:00+03:00",
  "fiyatlar": {
   "gram_altin": {
-   "alis": 609466,
-   "satis": 618453
+   "alis": 593284,
+   "satis": 604094
   },
   "ceyrek_altin": {
-   "alis": 1004500,
-   "satis": 1026100
+   "alis": 977900,
+   "satis": 1002300
   },
   "yarim_altin": {
-   "alis": 2009100,
-   "satis": 2052200
+   "alis": 1955700,
+   "satis": 2004600
   },
   "tam_altin": {
-   "alis": 4005900,
-   "satis": 4098300
+   "alis": 3899600,
+   "satis": 4003200
   },
   "cumhuriyet_altini": {
-   "alis": 4091700,
-   "satis": 4150700
+   "alis": 3983100,
+   "satis": 4054400
   },
   "gumus_gram": {
-   "alis": 6582,
-   "satis": 7545
+   "alis": 6229,
+   "satis": 7200
   },
   "usd": {
    "alis": 5054,
@@ -44,7 +44,7 @@
    "url": "https://www.tcmb.gov.tr/kurlar/202611/24112026.xml"
   },
   {
-   "ad": "Harem Altın – altın ve gümüş alış/satış (24.11.2026 17:54; geçmiş: gün sonu alış)",
+   "ad": "Harem Altın – altın ve gümüş alış/satış (25.11.2026 08:59; geçmiş: gün sonu alış)",
    "url": "https://www.haremaltin.com/"
   }
  ],
@@ -2289,9 +2289,15 @@
    "usd": 5054,
    "eur": 5522,
    "gbp": 6589,
-   "gram_altin": 609466,
-   "ceyrek_altin": 1004500,
-   "gumus_gram": 6582
+   "gram_altin": 597961,
+   "ceyrek_altin": 985600,
+   "gumus_gram": 6341
+  },
+  {
+   "tarih": "2026-11-25",
+   "gram_altin": 593284,
+   "ceyrek_altin": 977900,
+   "gumus_gram": 6229
   }
  ]
 }
