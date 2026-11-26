@@ -1,50 +1,50 @@
 {
- "guncelleme": "2026-11-26T09:53:00+03:00",
+ "guncelleme": "2026-11-26T17:54:00+03:00",
  "fiyatlar": {
   "gram_altin": {
-   "alis": 603553,
-   "satis": 618039
+   "alis": 599067,
+   "satis": 607273
   },
   "ceyrek_altin": {
-   "alis": 991800,
-   "satis": 1025400
+   "alis": 981400,
+   "satis": 1004600
   },
   "yarim_altin": {
-   "alis": 1983500,
-   "satis": 2050900
+   "alis": 1962800,
+   "satis": 2009100
   },
   "tam_altin": {
-   "alis": 3948900,
-   "satis": 4077100
+   "alis": 3913500,
+   "satis": 3988000
   },
   "cumhuriyet_altini": {
-   "alis": 4055000,
-   "satis": 4138700
+   "alis": 4021900,
+   "satis": 4060600
   },
   "gumus_gram": {
-   "alis": 6492,
-   "satis": 7464
+   "alis": 6474,
+   "satis": 7435
   },
   "usd": {
-   "alis": 5055,
-   "satis": 5064
+   "alis": 5059,
+   "satis": 5068
   },
   "eur": {
-   "alis": 5530,
-   "satis": 5540
+   "alis": 5550,
+   "satis": 5560
   },
   "gbp": {
-   "alis": 6596,
-   "satis": 6630
+   "alis": 6619,
+   "satis": 6653
   }
  },
  "kaynaklar": [
   {
-   "ad": "TCMB gösterge kurları (25.11.2026, döviz alış/satış)",
-   "url": "https://www.tcmb.gov.tr/kurlar/202611/25112026.xml"
+   "ad": "TCMB gösterge kurları (26.11.2026, döviz alış/satış)",
+   "url": "https://www.tcmb.gov.tr/kurlar/202611/26112026.xml"
   },
   {
-   "ad": "Harem Altın – altın ve gümüş alış/satış (26.11.2026 08:59; geçmiş: gün sonu alış)",
+   "ad": "Harem Altın – altın ve gümüş alış/satış (26.11.2026 17:54; geçmiş: gün sonu alış)",
    "url": "https://www.haremaltin.com/"
   }
  ],
@@ -2304,9 +2304,12 @@
   },
   {
    "tarih": "2026-11-26",
-   "gram_altin": 603553,
-   "ceyrek_altin": 991800,
-   "gumus_gram": 6492
+   "usd": 5059,
+   "eur": 5550,
+   "gbp": 6619,
+   "gram_altin": 599067,
+   "ceyrek_altin": 981400,
+   "gumus_gram": 6474
   }
  ]
 }

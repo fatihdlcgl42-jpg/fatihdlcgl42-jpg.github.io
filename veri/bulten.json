@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T17:54:00+03:00",
+ "guncelleme": "2026-11-26T17:54:00+03:00",
  "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
@@ -206,7 +206,7 @@
    "id": "2026-11-24-akaryakit-otv-aralik",
    "tarih": "2026-11-24",
    "baslik": "Akaryakıta 1 Aralık'ta ÖTV zammı bekleniyor",
-   "ozet": "Sektör kaynaklarına dayanan haberlere göre 1 Aralık'taki ÖTV güncellemesiyle benzinin litresine yaklaşık 4,15 TL, motorine yaklaşık 3,60 TL zam bekleniyor. Öncesinde perşembe günü küçük bir indirim gelebilir. Tutarlar henüz resmî değil.",
+   "ozet": "Sektör kaynaklarına göre ÖTV artışı 30 Kasım'da kesinleşip 1 Aralık'tan itibaren pompaya yansıyacak: benzine yaklaşık 4,15 TL, motorine yaklaşık 3,60 TL (KDV dahil). Motorine 1 Ocak 2027'de yaklaşık 2,28 TL'lik son bir ÖTV adımı daha bekleniyor. Tutarlar henüz resmî değil.",
    "tur": "risk",
    "etiketler": [
     "arac_sahibi"
@@ -218,8 +218,8 @@
    },
    "ne_yapmali": "Depoyu 30 Kasım'a kadar doldurmak zamdan önceki fiyattan yararlanmanızı sağlar.",
    "kaynak": {
-    "ad": "Elips Haber",
-    "url": "https://www.elipshaber.com/akaryakita-once-indirim-sonra-cifte-zam-tarih-belli-oldu"
+    "ad": "Yayla Haber (sektör kaynakları)",
+    "url": "https://www.yaylahaber.com.tr/motorine-432-lira-indirim-pompaya-yansidi-benzine-de-indirim-yolda"
    }
   },
   {
