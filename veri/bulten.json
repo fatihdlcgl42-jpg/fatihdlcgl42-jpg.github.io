@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T17:54:00+03:00",
+ "guncelleme": "2026-11-27T09:53:00+03:00",
  "haftalikOzet": "Bu hafta BDDK kredi kartı asgari ödeme oranlarını kart limitine göre %20, %30 ve %40 olarak yeniden belirledi; kart ve kredi borçlarına 60 aya kadar yeni yapılandırma ise henüz hazırlık aşamasında. Akaryakıtta motorine 6,58 TL, benzine 1,86 TL indirim geldi; trafik sigortası azami primi aralıkta %1 artacak. 2027 asgari ücreti aralıkta, Merkez Bankası faiz kararı 10 Aralık'ta açıklanacak. Elektrikte destekli tarife sınırı 2027'de yıllık 3.000 kWh'ye iniyor; memur zammı ocak başında netleşecek.",
  "maddeler": [
   {
@@ -253,6 +253,39 @@
    "kaynak": {
     "ad": "Enerji Günlüğü",
     "url": "https://www.enerjigunlugu.net/motorinde-indirim-70712h.htm"
+   }
+  },
+  {
+   "id": "2026-11-27-gecikme-zammi-tecil",
+   "tarih": "2026-11-27",
+   "baslik": "Vergi borçlarında gecikme zammı ve taksit faizi düştü",
+   "ozet": "27 Kasım Resmî Gazete'ye göre vadesinde ödenmeyen vergi, harç ve trafik cezası gibi kamu borçlarına uygulanan aylık gecikme zammı %3,7'den %3,2'ye, vergi dairesinde taksitlendirilen borçların yıllık tecil faizi %39'dan %29'a indi.",
+   "tur": "firsat",
+   "etiketler": [
+    "herkes",
+    "arac_sahibi"
+   ],
+   "ne_yapmali": "Gecikmiş MTV, trafik cezası veya vergi borcunuz varsa tecil faizi düştüğü için vergi dairesinden taksitlendirme seçeneğine bakabilirsiniz; yine de en ucuzu borcu gecikmeden ödemektir.",
+   "kaynak": {
+    "ad": "Haberci TV (Resmî Gazete 27.11.2026, Karar 12028)",
+    "url": "https://www.habercitv.com.tr/gecikme-zammi-yuzde-3-2-ye-indi-tecil-faizi-yuzde-29-oldu"
+   }
+  },
+  {
+   "id": "2026-11-30-emlak-vergisi-2-taksit",
+   "tarih": "2026-11-27",
+   "baslik": "Emlak vergisi 2. taksiti için son gün 30 Kasım",
+   "ozet": "2026 emlak vergisinin ikinci taksiti 30 Kasım'a kadar belediyeye ödenmeli; geç kalınan her ay için gecikme zammı işler.",
+   "tur": "risk",
+   "etiketler": [
+    "ev_sahibi",
+    "kira_geliri"
+   ],
+   "sonTarih": "2026-11-30",
+   "ne_yapmali": "Ev sahibiyseniz belediyenin e-ödeme sayfasından ya da bankanızdan 30 Kasım'a kadar ödeyin.",
+   "kaynak": {
+    "ad": "Haberci TV",
+    "url": "https://www.habercitv.com.tr/gecikme-zammi-yuzde-3-2-ye-indi-tecil-faizi-yuzde-29-oldu"
    }
   }
  ]
